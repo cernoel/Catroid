@@ -1863,4 +1863,6 @@ necesita acceso de lectura y escritura a ella. Siempre puedes cambiar los permis
         escenario.</string>
     <!-- Information -->
     <string name="no_variable_selected">Ninguna variable seleccionada</string>
+    <string name="find">Find</string>
+    <string name="no_results_found">No results found</string>
 </resources>

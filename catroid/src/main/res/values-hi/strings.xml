@@ -1892,4 +1892,6 @@
         मंच।</string>
     <!-- Information -->
     <string name="no_variable_selected">कोई चर नहीं चुना गया</string>
+    <string name="find">Find</string>
+    <string name="no_results_found">No results found</string>
 </resources>

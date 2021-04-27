@@ -1779,4 +1779,6 @@
         단계.</string>
     <!-- Information -->
     <string name="no_variable_selected">선택된 변수가 없습니다.</string>
+    <string name="find">Find</string>
+    <string name="no_results_found">No results found</string>
 </resources>

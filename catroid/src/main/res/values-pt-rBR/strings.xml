@@ -104,10 +104,10 @@
     <string name="marketing_created_with">Criado com</string>
     <string name="marketing_app_details">Detalhes sobre este aplicativo</string>
     <string name="marketing_more_on_google_play">Mais aplicativos na App Store</string>
-    <string name="error_cannot_open_huawei_app_gallery">Whoops! Falhou ao abrir a Huawei AppGallery,
-        por favor, tente novamente mais tarde.</string>
-    <string name="google_play_store_logo">Google Play</string>
-    <string name="huawei_app_gallery">Galeria de Aplicações Huawei</string>
+    <string name="error_cannot_open_huawei_app_gallery">Opa! Falha ao abrir Huawei AppGallery,
+        por favor tente novamente mais tarde.</string>
+    <string name="google_play_store_logo">Google Play Store</string>
+    <string name="huawei_app_gallery">Galeria de Aplicativos Huawei</string>
     <!-- NFC activity -->
     <string name="nfc_activity_title">Tags NFC</string>
     <!-- Settings activity -->
@@ -1864,11 +1864,11 @@ precisa de acesso de leitura e escrita a ele. Você sempre pode alterar as permi
     <!--  -->
     <!-- Dialog Disable hints -->
     <string name="dialog_disable_hints_title">Mostrar dicas?</string>
-    <string name="dialog_disable_hints_text">As dicas lhe fornecem informações úteis
-        enquanto faz seu primeiro projeto.\n\nVisibilidade de dicas pode ser mudada no
+    <string name="dialog_disable_hints_text">As dicas fornecem informações úteis
+        ao fazer seu primeiro projeto.\n\nA visibilidade das dicas pode ser alterada nas
         configurações.</string>
-    <string name="dialog_disable_hints_button_hide">SEJA</string>
-    <string name="dialog_disable_hints_button_show">PROJETE</string>
+    <string name="dialog_disable_hints_button_hide">OCULTAR</string>
+    <string name="dialog_disable_hints_button_show">EXIBIR</string>
     <!--  -->
     <!-- Crash report dialog -->
     <!--  -->
@@ -1883,8 +1883,10 @@ precisa de acesso de leitura e escrita a ele. Você sempre pode alterar as permi
     <string name="data_value">Valor</string>
     <string name="category_recently_used">Usados recentemente</string>
     <string name="new_sprite_dialog_place_visually">Colocar visualmente</string>
-    <string name="place_visually_text">Você será solicitado a colocar o novo ator ou objeto sobre a
-        palco.</string>
+    <string name="place_visually_text">Você será submetido a colocar o novo ator ou objeto em algum
+        local da cena.</string>
     <!-- Information -->
     <string name="no_variable_selected">Nenhuma variável selecionada</string>
+    <string name="find">Procurar</string>
+    <string name="no_results_found">Nenhum resultado encontrado</string>
 </resources>

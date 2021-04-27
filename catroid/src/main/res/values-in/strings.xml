@@ -150,90 +150,90 @@
     <string name="preference_access_title_profile_default">Default</string>
     <string name="preference_access_summary_profile_default">Pengaturan default</string>
     <string name="preference_access_title_profile_custom">Profil kustom saya</string>
-    <string name="preference_access_summary_profile_custom">My personal settings</string>
+    <string name="preference_access_summary_profile_custom">Pengaturan pribadi saya</string>
     <string name="preference_access_title_profile_argus">Argus</string>
-    <string name="preference_access_summary_profile_argus">High contrast, additional icons</string>
+    <string name="preference_access_summary_profile_argus">Kontras tinggi, ikon tambahan</string>
     <string name="preference_access_title_profile_odin">Odin</string>
-    <string name="preference_access_summary_profile_odin">Large text, large icons, large element
-       spacing, high contrast</string>
+    <string name="preference_access_summary_profile_odin">Teks besar, ikon besar, elemen besar
+       jarak, kontras tinggi</string>
     <string name="preference_access_title_profile_fenrir">Fenrir</string>
-    <string name="preference_access_summary_profile_fenrir">Large element spacing, drag\'n\'drop
-       delay</string>
-    <string name="preference_access_title_profile_tiro">Tiro</string>
+    <string name="preference_access_summary_profile_fenrir">Spasi elemen besar, drag\'n\'drop
+       menunda</string>
+    <string name="preference_access_title_profile_tiro">Orang yg belum berpengalaman</string>
     <string name="preference_access_summary_profile_tiro">Mode pemula</string>
     <!-- Lego/Drone/Raspi/Chromecast/Embroidery -->
     <string name="preference_title_enable_quadcopter_bricks">Parrot AR.Drone 2.0 batu bata</string>
-    <string name="preference_description_quadcopter_bricks">Allow the app to control Parrot AR.Drone 2.0 quadcopters</string>
+    <string name="preference_description_quadcopter_bricks">Izinkan aplikasi untuk mengontrol quadcopters Parrot AR.Drone 2.0</string>
     <string name="preference_title_enable_jumpingsumo_bricks">Parrot Jumping Sumo batu bata</string>
-    <string name="preference_description_jumpingsumo_bricks">Allow the app to control Parrot\'s Jumping Sumo robots</string>
+    <string name="preference_description_jumpingsumo_bricks">Izinkan aplikasi untuk mengontrol robot Parrot\'s Jumping Sumo</string>
     <string name="preference_title_enable_mindstorms_nxt_bricks">Lego Mindstorms Batu bata NXT</string>
     <string name="preference_title_enable_mindstorms_ev3_bricks">Batu bata Lego Mindstorms EV3</string>
-    <string name="preference_description_mindstorms_nxt_bricks">Allow the app to control Lego Mindstorms NXT robots</string>
-    <string name="preference_description_mindstorms_ev3_bricks">Allow the app to control Lego Mindstorms EV3 robots</string>
+    <string name="preference_description_mindstorms_nxt_bricks">Izinkan aplikasi untuk mengontrol robot Lego Mindstorms NXT</string>
+    <string name="preference_description_mindstorms_ev3_bricks">Izinkan aplikasi untuk mengontrol robot Lego Mindstorms EV3</string>
     <string name="preference_title_mindstorms_nxt_sensors">Sensor Lego NXT</string>
     <string name="preference_title_mindstorms_ev3_sensors">Sensor Lego EV3</string>
-    <string name="preference_title_drone_config_properties">Parrot AR.Drone 2.0 configuration</string>
+    <string name="preference_title_drone_config_properties">Konfigurasi Parrot AR.Drone 2.0</string>
     <string name="preference_title_enable_phiro_bricks">Batu bata phiro</string>
-    <string name="preference_description_phiro_bricks">Allow the app to control RobotixEdu\'s Phiro robots</string>
+    <string name="preference_description_phiro_bricks">Izinkan aplikasi untuk mengontrol robot Phiro RobotixEdu</string>
     <string name="preference_title_enable_arduino_bricks">Batu bata Arduino</string>
-    <string name="preference_description_arduino_bricks">Allow the app to control Arduino boards</string>
-    <string name="preference_title_enable_embroidery_bricks">Embroidery extension</string>
-    <string name="preference_description_embroidery_bricks">Create patterns for stitching machines</string>
+    <string name="preference_description_arduino_bricks">Izinkan aplikasi untuk mengontrol papan Arduino</string>
+    <string name="preference_title_enable_embroidery_bricks">Ekstensi bordir</string>
+    <string name="preference_description_embroidery_bricks">Buat pola untuk mesin jahitan</string>
     <string name="preference_title_cast_feature_globally_enabled">Aktifkan fitur cast</string>
-    <string name="preference_description_cast_feature_globally_enabled">Show cast button and enable cast projects</string>
+    <string name="preference_description_cast_feature_globally_enabled">Tampilkan tombol transmisi dan aktifkan proyek transmisi</string>
     <string name="preference_title_enable_nfc_bricks">Dekat Bidang Komunikasi</string>
-    <string name="preference_description_nfc_bricks">Allow the app to use NFC tags in projects</string>
+    <string name="preference_description_nfc_bricks">Izinkan aplikasi menggunakan tag NFC dalam proyek</string>
     <string name="preference_title_enable_crash_reports">Mengirim laporan kerusakan anonim</string>
-    <string name="preference_description_crash_reports">Allow the app to send crash reports automatically</string>
+    <string name="preference_description_crash_reports">Izinkan aplikasi mengirim laporan kerusakan secara otomatis</string>
     <!-- -->
     <string name="preference_title_enable_raspi_bricks">Batu bata Raspberry Pi</string>
-    <string name="preference_description_raspi_bricks">Allow the app to control Raspberry Pi computers</string>
+    <string name="preference_description_raspi_bricks">Izinkan aplikasi untuk mengontrol komputer Raspberry Pi</string>
     <string name="preference_raspi_enable_bricks">Aktifkan batu bata Raspberry Pi</string>
     <string name="preference_raspi_help">Bantuan / Mulai</string>
     <string name="preference_raspi_help_summary">Dapatkan bantuan tentang cara mengkonfigurasi pengaturan koneksi</string>
     <string name="preference_raspi_host">Raspberry Pi IP-/Alamat-Tuan rumah</string>
     <string name="preference_raspi_port">Pelabuhan Raspberry Pi</string>
     <!--  -->
-    <string name="preference_title_multiplayer_variables_enabled">Multiplayer extension</string>
-    <string name="preference_description_multiplayer_variables_enabled">Allow the app to use
-        multiplayer variables shared via Bluetooth</string>
-    <string name="preference_title_enable_test_bricks">Testing extension</string>
-    <string name="preference_description_test_bricks">Allows to create tests</string>
+    <string name="preference_title_multiplayer_variables_enabled">Ekstensi multipemain</string>
+    <string name="preference_description_multiplayer_variables_enabled">Izinkan aplikasi untuk digunakan
+        variabel multipemain dibagikan melalui Bluetooth</string>
+    <string name="preference_title_enable_test_bricks">Menguji ekstensi</string>
+    <string name="preference_description_test_bricks">Memungkinkan untuk membuat tes</string>
     <!-- Scratch Converter activity -->
     <string name="beta">BETA</string>
-    <string name="error_scratch_program_not_accessible_any_more">Whoops! The project seems to have disappeared
-        or you might have lost access to it.</string>
-    <string name="error_scratch_project_data_not_available">Whoops! Some parts of the project seem to be
-        missing, please try again later.</string>
-    <string name="error_request_timeout">Whoops! Our server did not respond in time, please try again later.</string>
+    <string name="error_scratch_program_not_accessible_any_more">Ups! Proyek tersebut sepertinya telah menghilang
+        atau Anda mungkin kehilangan akses ke sana.</string>
+    <string name="error_scratch_project_data_not_available">Ups! Beberapa bagian dari proyek tampaknya akan menjadi
+        hilang, coba lagi nanti.</string>
+    <string name="error_request_timeout">Ups! Server kami tidak merespon tepat waktu, coba lagi nanti.</string>
     <string name="error_scratch_program_conversion_failed">Whoops! Gagal mengonversi program Gores, coba lagi
         kemudian!</string>
     <string name="error_specific_scratch_program_conversion_failed_x">Whoops! Gagal mengonversi %1$s, coba
          lagi nanti!</string>
-    <string name="error_scratch_converter_outdated_app_version">Your version of this app is outdated. Our Scratch
-        converter only works on the latest version. Please update the app.</string>
+    <string name="error_scratch_converter_outdated_app_version">Versi Anda dari aplikasi ini sudah usang. Scratch kami
+        konverter hanya berfungsi pada versi terbaru. Harap perbarui aplikasi.</string>
     <string name="error_cannot_open_not_existing_scratch_program">Tidak bisa membuka program Scratch ini. Sepertinya Anda
          telah membatalkan konversi / unduhan program Scratch, atau Anda telah mengganti nama / menghapus program untuk
          sementara!</string>
-    <string name="error_cannot_open_currently_downloading_scratch_program">You cannot yet open the project.
-        Please wait until it is downloaded.</string>
-    <string name="error_cannot_open_not_yet_downloaded_scratch_program">You cannot yet open the project.
-        Please download it first and then open it.</string>
-    <string name="error_cannot_convert_deprecated_scratch_program_x_x">I could not convert %1$s. This seems to be
-        an old Scratch project from before %2$s. Please try another one.</string>
+    <string name="error_cannot_open_currently_downloading_scratch_program">Anda belum dapat membuka proyek.
+        Harap tunggu sampai diunduh.</string>
+    <string name="error_cannot_open_not_yet_downloaded_scratch_program">Anda belum dapat membuka proyek.
+        Silahkan download dulu baru kemudian buka.</string>
+    <string name="error_cannot_convert_deprecated_scratch_program_x_x">Saya tidak dapat mengonversi %1$s. Sepertinya begitu
+        proyek Scratch lama dari sebelum %2$s. Silakan coba yang lain.</string>
     <plurals name="error_cannot_convert_more_than_x_programs">
-        <item quantity="other">You cannot convert more than %d projects at the same time. Please wait for the
-            running conversions to finish first.</item>
+        <item quantity="other">Anda tidak dapat mengonversi lebih dari %d proyek pada waktu yang sama. Harap tunggu
+            menjalankan konversi untuk menyelesaikannya terlebih dahulu.</item>
     </plurals>
-    <string name="error_cannot_open_failed_scratch_program">You cannot open the project because it wasn\'t
-        converted correctly. Please try to convert it again.</string>
-    <string name="search_failed">Nothing found, please retry later.</string>
-    <string name="connection_lost_or_closed_by_server">Server connection lost.</string>
-    <string name="connection_failed">We can\'t connect you to the server right now, please try again later.</string>
-    <string name="authentication_failed">There seems to be a problem with your connection to the service. Please
-        contact the Catrobat team.</string>
+    <string name="error_cannot_open_failed_scratch_program">Anda tidak dapat membuka proyek karena sebenarnya tidak
+        dikonversi dengan benar. Silakan coba mengubahnya lagi.</string>
+    <string name="search_failed">Tidak ada yang ditemukan, coba lagi nanti.</string>
+    <string name="connection_lost_or_closed_by_server">Koneksi server terputus.</string>
+    <string name="connection_failed">Kami tidak dapat menghubungkan Anda ke server sekarang, coba lagi nanti.</string>
+    <string name="authentication_failed">Sepertinya ada masalah dengan sambungan Anda ke layanan. Silahkan
+        hubungi tim Catrobat.</string>
     <plurals name="scratch_conversion_scheduled_x">
-        <item quantity="other">Added %d Scratch projects to the queue&#8230;</item>
+        <item quantity="other">Menambahkan %d proyek Scratch ke antrean&#8230;</item>
     </plurals>
     <string name="scratch_conversion_started">Mulai mengonversi program Gores&#8230;</string>
     <string name="convert">Konversi</string>
@@ -243,20 +243,20 @@
     <string name="status_started">Dimulai&#8230;</string>
     <string name="status_conversion_finished">Konversi selesai</string>
     <plurals name="status_in_progress_x_jobs">
-        <item quantity="other">In progress: %d jobs</item>
+        <item quantity="other">Sedang diproses: %d pekerjaan</item>
     </plurals>
     <plurals name="status_completed_x_jobs">
-        <item quantity="other">Completed: %d jobs</item>
+        <item quantity="other">Selesai: %d pekerjaan</item>
     </plurals>
     <string name="status_conversion_failed">Konversi gagal!</string>
     <string name="status_downloading">Mengunduh&#8230;</string>
     <string name="status_download_finished">Selesai mengunduh!</string>
     <string name="status_download_canceled">Download dibatalkan!</string>
-    <string name="scratch_programs_in_progress_title">In progress</string>
-    <string name="scratch_programs_finished_title">Converted projects</string>
+    <string name="scratch_programs_in_progress_title">Sedang berlangsung</string>
+    <string name="scratch_programs_finished_title">Proyek yang diubah</string>
     <string name="by_x">dengan %1$s</string>
-    <string name="warning_program_visibility">WARNING:\nThis seems to be a private project. You can try to
-        convert it but it might not work.</string>
+    <string name="warning_program_visibility">PERINGATAN:\nTampaknya ini adalah proyek pribadi. Anda bisa mencoba
+        mengonversinya tetapi mungkin tidak berhasil.</string>
     <string name="instructions">Instruksi</string>
     <string name="notes_and_credits">Catatan dan Kredit</string>
     <string name="shared_at_x">Dibagikan: %1$s</string>
@@ -268,64 +268,64 @@
     <string name="mode">Mode:</string>
     <string name="remix_of">Remix dari:</string>
     <string name="description_hint">Tekan untuk menambahkan deskripsi</string>
-    <string name="notes_and_credits_hint">Press to add notes and credits</string>
+    <string name="notes_and_credits_hint">Tekan untuk menambahkan catatan dan kredit</string>
     <!-- ScratchReconvertDialog Strings -->
-    <string name="reconvert_text">You converted this project %1$s ago.</string>
+    <string name="reconvert_text">Anda mengonversi proyek ini %1$s yang lalu.</string>
     <plurals name="minutes">
-        <item quantity="other">%d minutes</item>
+        <item quantity="other">%d menit</item>
     </plurals>
     <plurals name="hours">
-        <item quantity="other">%d hours</item>
+        <item quantity="other">%d jam</item>
     </plurals>
     <plurals name="days">
-        <item quantity="other">%d days</item>
+        <item quantity="other">%d Hari </item>
     </plurals>
-    <string name="reconvert_dialog_download">Download the project again</string>
-    <string name="reconvert_dialog_reconvert">Convert this project again</string>
+    <string name="reconvert_dialog_download">Unduh proyek lagi</string>
+    <string name="reconvert_dialog_reconvert">Ubah proyek ini lagi</string>
     <!--  -->
     <!-- ERRORS -->
     <!-- Terms of Use and Service Error -->
-    <string name="declined_terms_of_use_and_service_alert">To use our app, it is necessary to accept our Terms of Use and Service.
-        However, if you don\’t feel comfortable to do so, you can use our free web-services on</string>
+    <string name="declined_terms_of_use_and_service_alert">Untuk menggunakan aplikasi kami, Anda perlu menerima Ketentuan Penggunaan dan Layanan kami.
+        Namun, jika Anda merasa tidak nyaman melakukannya, Anda dapat menggunakan layanan web gratis kami di</string>
     <string name="wtf_error">Terjadi Error tak terduga: Tidak dapat mengembalikan default proyek.</string>
     <!-- Project Handling Errors -->
     <string name="error_copy_project">Terjadi kesalahan saat menyalin proyek</string>
     <!-- Dialog Errors -->
-    <string name="name_already_exists">This name is already in use, please choose another one.</string>
-    <string name="name_consists_of_spaces_only">You only put spaces into the text field, please enter a text
-        using letters, numbers or other special characters.</string>
-    <string name="name_empty">Please enter a text</string>
+    <string name="name_already_exists">Nama ini sudah digunakan, pilih yang lain.</string>
+    <string name="name_consists_of_spaces_only">Anda hanya memasukkan spasi ke dalam bidang teks, harap masukkan teks
+        menggunakan huruf, angka atau karakter khusus lainnya.</string>
+    <string name="name_empty">Harap masukkan teks</string>
     <!-- Recycler View -->
-    <string name="am_empty_list">There are no items in this list yet. Please add some first.</string>
-    <string name="am_merge_error">No merging is done. Exactly 2 projects need to be selected to merge.</string>
+    <string name="am_empty_list">Belum ada item dalam daftar ini. Tolong tambahkan dulu.</string>
+    <string name="am_merge_error">Tidak ada penggabungan yang dilakukan. Tepat 2 proyek harus dipilih untuk digabungkan.</string>
     <string name="am_backpack">Paket</string>
     <string name="am_unpack">Membuka</string>
     <string name="am_copy">Salin</string>
     <string name="am_delete" tools:ignore="UnusedResources">Hapus</string>
     <string name="am_rename">Menamai ulang</string>
     <string name="am_convert">Konversi</string>
-    <string name="am_merge">Merge</string>
-    <string name="dialog_confirm_delete">You can\'t undo this!</string>
-    <string name="list_headline_sprites">Actors and objects</string>
+    <string name="am_merge">Menggabungkan</string>
+    <string name="dialog_confirm_delete">Anda tidak dapat membatalkan ini!</string>
+    <string name="list_headline_sprites">Aktor dan objek</string>
     <!-- Options Menu Options -->
     <string name="backpack">Ransel</string>
     <string name="copy">Salin</string>
     <string name="delete">Hapus</string>
     <string name="rename">Menamai ulang</string>
-    <string name="merge">Merge</string>
+    <string name="merge">Menggabungkan</string>
     <string name="show_details">Tampilkan rincian</string>
     <string name="hide_details">Sembunyikan rincian</string>
-    <string name="project_options">Project options</string>
-    <string name="sort_projects">Sort</string>
-    <string name="unsort_projects">Unsort</string>
+    <string name="project_options">Opsi proyek</string>
+    <string name="sort_projects">Menyortir</string>
+    <string name="unsort_projects">Batalkan pengurutan</string>
     <!-- New Dialog Titles -->
     <string name="new_scene_dialog">Adegan baru</string>
     <!-- Delete Dialog Titles -->
     <plurals name="delete_projects">
-        <item quantity="other">Delete these projects?</item>
+        <item quantity="other">Hapus proyek ini?</item>
     </plurals>
     <plurals name="delete_scenes">
-        <item quantity="other">Delete these scenes?</item>
+        <item quantity="other">Hapus adegan ini?</item>
     </plurals>
     <plurals name="delete_sprites">
         <item quantity="other">Delete these actors or objects?</item>
@@ -343,17 +343,17 @@
         <item quantity="other">Delete these scripts?</item>
     </plurals>
     <!-- Dialog Labels -->
-    <string name="project_name_label">Project name</string>
-    <string name="scene_name_label">Scene name</string>
-    <string name="sprite_name_label">Actor or object name</string>
-    <string name="sprite_group_name_label">Group name</string>
-    <string name="script_group_label">Script group name</string>
-    <string name="look_name_label">Look name</string>
+    <string name="project_name_label">Nama Proyek</string>
+    <string name="scene_name_label">Nama adegan</string>
+    <string name="sprite_name_label">Nama aktor atau objek</string>
+    <string name="sprite_group_name_label">Nama grup</string>
+    <string name="script_group_label">Nama grup skrip</string>
+    <string name="look_name_label">Lihat nama</string>
     <string name="sound_name_label">Nama suara</string>
-    <string name="nfc_tag_name_label">NFC tag name</string>
+    <string name="nfc_tag_name_label">Nama tag NFC</string>
     <string name="string_label">Teks</string>
     <string name="data_label">Nama</string>
-    <string name="keyword_label">Insert keyword</string>
+    <string name="keyword_label">Sisipkan kata kunci</string>
     <string name="html_label">Insert HTML text</string>
     <string name="Image_format_not_supported">Image format not supported</string>
     <!-- Details -->
@@ -457,8 +457,8 @@
     <string name="size">Ukuran:</string>
     <string name="description">Keterangan:</string>
     <string name="set_description">Atur keterangan</string>
-    <string name="notes_and_credits_title">Notes and credits:</string>
-    <string name="set_notes_and_credits">Set notes and credits</string>
+    <string name="notes_and_credits_title">Catatan dan kredit:</string>
+    <string name="set_notes_and_credits">Atur catatan dan kredit</string>
     <string name="details_date_today">Hari ini</string>
     <string name="import_project">Import project</string>
     <string name="error_import_project">Something went wrong while importing projects.</string>
@@ -581,7 +581,7 @@
     <!-- UploadProjectDialog -->
     <string name="upload_project_dialog_title">Mengunggah Program</string>
     <string name="upload_description">Keterangan:</string>
-    <string name="upload_notes_and_credits">Notes and credits:</string>
+    <string name="upload_notes_and_credits">Catatan dan kredit:</string>
     <string name="upload_notes_and_credits_explanation">How did you create this project? Did you use ideas, scripts or artwork from other people? Thank them here.</string>
     <string name="upload_tag_dialog_title">Please choose up to three categories</string>
     <string name="upload_tags_maximum_error">Selecting more than 3 tags is not possible.</string>
@@ -1840,4 +1840,6 @@ needs read and write access to it. You can always change permissions through you
         stage.</string>
     <!-- Information -->
     <string name="no_variable_selected">No variable selected</string>
+    <string name="find">Find</string>
+    <string name="no_results_found">No results found</string>
 </resources>

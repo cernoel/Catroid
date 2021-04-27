@@ -1882,4 +1882,6 @@ con tolleranza %        </string>
 .</string>
     <!-- Information -->
     <string name="no_variable_selected">Nessuna variabile selezionata</string>
+    <string name="find">Trova</string>
+    <string name="no_results_found">Nessun risultato trovato</string>
 </resources>

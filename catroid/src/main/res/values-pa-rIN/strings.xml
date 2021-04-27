@@ -910,432 +910,439 @@
     <string name="brick_set_velocity_to" tools:ignore="UnusedResources">"ਉੱਤੇ ਵੇਗ ਸੈੱਟ ਕਰੋ"</string>
     <string name="brick_set_velocity_unit" tools:ignore="UnusedResources">ਕਦਮ / ਸਕਿੰਟ</string>
     <string name="brick_turn_speed_unit" tools:ignore="UnusedResources">ਡਿਗਰੀ / ਸਕਿੰਟ</string>
-    <string name="brick_set_friction" tools:ignore="UnusedResources">"Set friction to"</string>
-    <string name="brick_set_bounce_factor" tools:ignore="UnusedResources">"Set bounce factor to"</string>
-    <string name="brick_rotate_left" tools:ignore="UnusedResources">"Spin left"</string>
-    <string name="brick_rotate_right" tools:ignore="UnusedResources">"Spin right"</string>
+    <string name="brick_set_friction" tools:ignore="UnusedResources">"ਨੂੰ ਰਗੜ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="brick_set_bounce_factor" tools:ignore="UnusedResources">"ਬਾ bਂਸ ਫੈਕਟਰ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="brick_rotate_left" tools:ignore="UnusedResources">"ਸਪਿਨ ਖੱਬੇ"</string>
+    <string name="brick_rotate_right" tools:ignore="UnusedResources">"ਸੱਜੇ ਮੁੜੋ"</string>
     <!-- Look bricks -->
-    <string name="brick_set_look" tools:ignore="UnusedResources">Switch to look</string>
-    <string name="brick_set_look_by_index" tools:ignore="UnusedResources">Switch to look with number</string>
-    <string name="brick_and_wait">and wait</string>
-    <string name="brick_set_background" tools:ignore="UnusedResources">Set background</string>
-    <string name="brick_set_background_and_wait" tools:ignore="UnusedResources">Set background and wait</string>
-    <string name="brick_set_background_by_index" tools:ignore="UnusedResources">Set background to number</string>
-    <string name="brick_when_background" tools:ignore="UnusedResources">When background changes to</string>
-    <string name="brick_set_size_to" tools:ignore="UnusedResources">Set size to</string>
-    <string name="brick_change_size_by" tools:ignore="UnusedResources">Change size by</string>
-    <string name="brick_hide" tools:ignore="UnusedResources">Hide</string>
-    <string name="brick_show" tools:ignore="UnusedResources">Show</string>
-    <string name="brick_set_transparency" tools:ignore="UnusedResources">"Set transparency"</string>
-    <string name="brick_change_ghost_effect" tools:ignore="UnusedResources">"Change transparency"</string>
-    <string name="brick_set_brightness" tools:ignore="UnusedResources">"Set brightness"</string>
-    <string name="brick_change_brightness" tools:ignore="UnusedResources">"Change brightness"</string>
-    <string name="brick_set_color" tools:ignore="UnusedResources">"Set color"</string>
-    <string name="brick_change_color" tools:ignore="UnusedResources">"Change color"</string>
-    <string name="by_label" tools:ignore="UnusedResources">by</string>
-    <string name="to_label" tools:ignore="UnusedResources">to</string>
-    <string name="brick_clear_graphic_effect" tools:ignore="UnusedResources">Clear graphic effects</string>
-    <string name="brick_next_look" tools:ignore="UnusedResources">Next look</string>
-    <string name="brick_next_background">Next background</string>
-    <string name="brick_previous_look" tools:ignore="UnusedResources">Previous look</string>
-    <string name="brick_previous_background">Previous background</string>
-    <string name="brick_edit_look" tools:ignore="UnusedResources">Edit look</string>
-    <string name="brick_edit_background">Edit background</string>
-    <string name="brick_delete_look" tools:ignore="UnusedResources">Delete look</string>
-    <string name="brick_delete_background">Delete background</string>
-    <string name="brick_flash" tools:ignore="UnusedResources">Turn flashlight</string>
-    <string name="brick_flash_on" tools:ignore="UnusedResources">on</string>
-    <string name="brick_flash_off" tools:ignore="UnusedResources">off</string>
-    <string name="brick_vibration" tools:ignore="UnusedResources">Vibrate for</string>
-    <string name="brick_ask_label" tools:ignore="UnusedResources">Ask</string>
-    <string name="brick_ask_store" tools:ignore="UnusedResources">and store written answer in</string>
-    <string name="brick_ask_default_question">What\'s your name?</string>
-    <string name="brick_ask_dialog_hint">"Enter your answer:"</string>
-    <string name="brick_ask_dialog_submit">Submit answer</string>
-    <string name="brick_ask_speech_label" tools:ignore="UnusedResources">Ask</string>
-    <string name="brick_ask_speech_store" tools:ignore="UnusedResources">and store spoken answer in</string>
-    <string name="brick_ask_speech_default_question">What\'s your name?</string>
-    <string name="brick_paint_new_look" tools:ignore="UnusedResources">Paint new look</string>
-    <string name="brick_paint_new_background">Paint new background</string>
-    <string name="brick_paint_new_look_name">"name of new look"</string>
-    <string name="brick_copy_look" tools:ignore="UnusedResources">Copy look and name it</string>
-    <string name="brick_copy_look_name">name of copied look</string>
-    <string name="brick_copy_background">Copy background and name it</string>
+    <string name="brick_set_look" tools:ignore="UnusedResources">ਵੇਖਣ ਲਈ ਬਦਲੋ</string>
+    <string name="brick_set_look_by_index" tools:ignore="UnusedResources">ਨੰਬਰ ਨਾਲ ਵੇਖਣ ਲਈ ਬਦਲੋ</string>
+    <string name="brick_and_wait">ਅਤੇ ਇੰਤਜ਼ਾਰ ਕਰੋ</string>
+    <string name="brick_set_background" tools:ignore="UnusedResources">ਪਿਛੋਕੜ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_set_background_and_wait" tools:ignore="UnusedResources">ਪਿਛੋਕੜ ਸੈਟ ਕਰੋ ਅਤੇ ਉਡੀਕ ਕਰੋ</string>
+    <string name="brick_set_background_by_index" tools:ignore="UnusedResources">ਨੰਬਰ ਤੇ ਬੈਕਗ੍ਰਾਉਂਡ ਸੈਟ ਕਰੋ</string>
+    <string name="brick_when_background" tools:ignore="UnusedResources">ਜਦੋਂ ਪਿਛੋਕੜ ਬਦਲਿਆ ਜਾਵੇ</string>
+    <string name="brick_set_size_to" tools:ignore="UnusedResources">ਅਕਾਰ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_change_size_by" tools:ignore="UnusedResources">ਆਕਾਰ ਬਦਲੋ</string>
+    <string name="brick_hide" tools:ignore="UnusedResources">ਲੁਕਾਓ</string>
+    <string name="brick_show" tools:ignore="UnusedResources">ਵਿਖਾਓ</string>
+    <string name="brick_set_transparency" tools:ignore="UnusedResources">"ਪਾਰਦਰਸ਼ਤਾ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="brick_change_ghost_effect" tools:ignore="UnusedResources">"ਪਾਰਦਰਸ਼ਤਾ ਬਦਲੋ"</string>
+    <string name="brick_set_brightness" tools:ignore="UnusedResources">"ਲਾਇਟ ਦੀ ਚਮਕ ਸੈਟ ਕਰੋ"</string>
+    <string name="brick_change_brightness" tools:ignore="UnusedResources">"ਬ੍ਰਾਇਟਨੇਸ ਬਦਲੋ"</string>
+    <string name="brick_set_color" tools:ignore="UnusedResources">"ਰੰਗ ਸੈੱਟ ਕਰੋ"</string>
+    <string name="brick_change_color" tools:ignore="UnusedResources">"ਰੰਗ ਬਦਲੋ"</string>
+    <string name="by_label" tools:ignore="UnusedResources">ਨਾਲ</string>
+    <string name="to_label" tools:ignore="UnusedResources">ਨੂੰ</string>
+    <string name="brick_clear_graphic_effect" tools:ignore="UnusedResources">ਗ੍ਰਾਫਿਕ ਪ੍ਰਭਾਵ ਸਾਫ਼ ਕਰੋ</string>
+    <string name="brick_next_look" tools:ignore="UnusedResources">ਅਗਲੀ ਨਜ਼ਰ</string>
+    <string name="brick_next_background">ਪਿਛੋਕੜ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_previous_look" tools:ignore="UnusedResources">ਪਿਛਲਾ ਟ੍ਰੈਕ</string>
+    <string name="brick_previous_background">ਪਿਛਲਾ ਪਿਛੋਕੜ</string>
+    <string name="brick_edit_look" tools:ignore="UnusedResources">ਸੋਧ ਵੇਖਣ</string>
+    <string name="brick_edit_background">ਪਿਛੋਕੜ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_delete_look" tools:ignore="UnusedResources">ਦਿੱਖ ਮਿਟਾਓ</string>
+    <string name="brick_delete_background">ਪਿਛੋਕੜ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_flash" tools:ignore="UnusedResources">ਬੰਦ ਪਾਪਾ</string>
+    <string name="brick_flash_on" tools:ignore="UnusedResources">ਚਾਲੂ</string>
+    <string name="brick_flash_off" tools:ignore="UnusedResources">ਬੰਦ</string>
+    <string name="brick_vibration" tools:ignore="UnusedResources">ਲਈ ਵਾਈਬ੍ਰੇਟ</string>
+    <string name="brick_ask_label" tools:ignore="UnusedResources">ਪੁੱਛੋ</string>
+    <string name="brick_ask_store" tools:ignore="UnusedResources">ਅਤੇ ਲਿਖਤੀ ਜਵਾਬ ਅੰਦਰ ਸਟੋਰ ਕਰੋ</string>
+    <string name="brick_ask_default_question">ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?</string>
+    <string name="brick_ask_dialog_hint">"ਆਪਣਾ ਜਵਾਬ ਦਰਜ ਕਰੋ:"</string>
+    <string name="brick_ask_dialog_submit">ਜਵਾਬ ਜਮ੍ਹਾ ਕਰੋ</string>
+    <string name="brick_ask_speech_label" tools:ignore="UnusedResources">ਪੁੱਛੋ</string>
+    <string name="brick_ask_speech_store" tools:ignore="UnusedResources">ਅਤੇ ਲਿਖਤੀ ਜਵਾਬ ਅੰਦਰ ਸਟੋਰ ਕਰੋ</string>
+    <string name="brick_ask_speech_default_question">ਤੁਹਾਡਾ ਨਾਮ ਕੀ ਹੈ?</string>
+    <string name="brick_paint_new_look" tools:ignore="UnusedResources">ਨਵੀਂ ਦਿੱਖ ਪੇਂਟ ਕਰੋ</string>
+    <string name="brick_paint_new_background">ਨਵ ਦੀ ਪਿੱਠਭੂਮੀ ਚਿੱਤਰਕਾਰੀ</string>
+    <string name="brick_paint_new_look_name">"ਨਵੀਂ ਦਿੱਖ ਦਾ ਨਾਮ"</string>
+    <string name="brick_copy_look" tools:ignore="UnusedResources">ਨਵਾਂ ਵੇਖਣ ਦਾ ਨਾਮ</string>
+    <string name="brick_copy_look_name">ਨਵੀਂ ਦਿੱਖ ਦਾ ਨਾਮ</string>
+    <string name="brick_copy_background">ਪਿਛੋਕੜ ਸੈਟ ਕਰੋ ਅਤੇ ਉਡੀਕ ਕਰੋ</string>
     <!--  -->
     <!-- Pen bricks -->
-    <string name="brick_pen_down" tools:ignore="UnusedResources">Pen down</string>
-    <string name="brick_pen_up" tools:ignore="UnusedResources">Pen up</string>
-    <string name="brick_pen_size" tools:ignore="UnusedResources">Set pen size to</string>
-    <string name="brick_pen_color" tools:ignore="UnusedResources">Set pen color to</string>
-    <string name="brick_clear_background" tools:ignore="UnusedResources">Clear</string>
-    <string name="brick_stamp" tools:ignore="UnusedResources">Stamp</string>
+    <string name="brick_pen_down" tools:ignore="UnusedResources">ਕਲਮ ਡਾ .ਨ</string>
+    <string name="brick_pen_up" tools:ignore="UnusedResources">ਕਲਮ</string>
+    <string name="brick_pen_size" tools:ignore="UnusedResources">ਅਕਾਰ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_pen_color" tools:ignore="UnusedResources">ਨੂੰ ਸੈੱਟ ਕਲਮ ਦਾ ਰੰਗ</string>
+    <string name="brick_clear_background" tools:ignore="UnusedResources">ਸਾਫ਼</string>
+    <string name="brick_stamp" tools:ignore="UnusedResources">ਮੋਹਰਾਂ</string>
     <!--  -->
     <!-- Sound bricks -->
-    <string name="brick_play_sound" tools:ignore="UnusedResources">Start sound</string>
-    <string name="brick_play_sound_and_wait" tools:ignore="UnusedResources">Start sound and wait</string>
-    <string name="brick_stop_sound" tools:ignore="UnusedResources">Stop sound</string>
-    <string name="brick_stop_all_sounds" tools:ignore="UnusedResources">Stop all sounds</string>
-    <string name="brick_set_volume_to" tools:ignore="UnusedResources">Set volume to</string>
-    <string name="brick_change_volume_by" tools:ignore="UnusedResources">Change volume by</string>
-    <string name="brick_speak" tools:ignore="UnusedResources">Speak</string>
-    <string name="brick_speak_default_value">Hello!</string>
-    <string name="brick_speak_and_wait" tools:ignore="UnusedResources">and wait</string>
-    <string name="brick_start_listening_to_voice" tools:ignore="UnusedResources">Start listening to voice and store spoken words in</string>
-    <string name="speech_recognition_not_available">Speech recognition isn\'t available.</string>
-    <string name="speech_recognition_offline_mode_error_dialog_title">Missing offline data</string>
-    <string name="speech_recognition_offline_mode_missing_data_error_dialog_msg">Offline speech recognition
-    for %s is missing or needs to be updated. Would you like to download or update it now?</string>
-    <string name="brick_set_listening_language" tools:ignore="UnusedResources">Set listening language to</string>
-    <string name="set_instrument_to" tools:ignore="UnusedResources">Set instrument to</string>
-    <string name="set_tempo_to" tools:ignore="UnusedResources">Set tempo to</string>
-    <string name="change_tempo_by" tools:ignore="UnusedResources">Change tempo by</string>
-    <string name="pause_for" tools:ignore="UnusedResources">Pause for</string>
-    <string name="play_drum" tools:ignore="UnusedResources">Play drum</string>
-    <string name="beats" tools:ignore="UnusedResources">beats</string>
-    <string name="play_note" tools:ignore="UnusedResources">Play note</string>
-    <string name="for_string" tools:ignore="UnusedResources">for</string>
+    <string name="brick_play_sound" tools:ignore="UnusedResources">ਆਵਾਜ਼ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="brick_play_sound_and_wait" tools:ignore="UnusedResources">ਆਵਾਜ਼ ਸ਼ੁਰੂ ਕਰੋ ਅਤੇ ਉਡੀਕ ਕਰੋ</string>
+    <string name="brick_stop_sound" tools:ignore="UnusedResources">ਆਵਾਜ਼ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="brick_stop_all_sounds" tools:ignore="UnusedResources">ਸਾਰੀਆਂ ਆਵਾਜ਼ਾਂ ਰੋਕੋ</string>
+    <string name="brick_set_volume_to" tools:ignore="UnusedResources">ਵਾਲੀਅਮ ਨੂੰ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_change_volume_by" tools:ignore="UnusedResources">ਦੁਆਰਾ ਵਾਲੀਅਮ ਬਦਲੋ</string>
+    <string name="brick_speak" tools:ignore="UnusedResources">ਬੋਲੋ</string>
+    <string name="brick_speak_default_value">ਹੈਲੋ!</string>
+    <string name="brick_speak_and_wait" tools:ignore="UnusedResources">ਅਤੇ ਇੰਤਜ਼ਾਰ ਕਰੋ</string>
+    <string name="brick_start_listening_to_voice" tools:ignore="UnusedResources">ਵਿਚ ਆਵਾਜ਼ ਸੁਣਨਾ ਅਤੇ ਬੋਲਣ ਵਾਲੇ ਸ਼ਬਦਾਂ ਨੂੰ ਸਟੋਰ ਕਰਨਾ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="speech_recognition_not_available">ਸਪੀਚ ਪਛਾਣ ਉਪਲਬਧ ਨਹੀਂ ਹੈ.</string>
+    <string name="speech_recognition_offline_mode_error_dialog_title">ਗੁੰਮ ਹੋਇਆ offlineਫਲਾਈਨ ਡੇਟਾ</string>
+    <string name="speech_recognition_offline_mode_missing_data_error_dialog_msg">ਔਫਲਾਈਨ ਸਪੀਚ ਪਛਾਣ
+     %s ਲਈ ਗੁੰਮ ਹੈ ਜਾਂ ਇਸ ਨੂੰ ਅਪਡੇਟ ਕਰਨ ਦੀ ਲੋੜ ਹੈ. ਕੀ ਤੁਸੀਂ ਹੁਣੇ ਇਸਨੂੰ ਡਾ downloadਨਲੋਡ ਕਰਨਾ ਜਾਂ ਅਪਡੇਟ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ?</string>
+    <string name="brick_set_listening_language" tools:ignore="UnusedResources">ਸੁਣਨ ਦੀ ਭਾਸ਼ਾ ਨੂੰ ਸੈੱਟ ਕਰੋ</string>
+    <string name="set_instrument_to" tools:ignore="UnusedResources">ਲਈ ਇੰਸਟੂਮੈਂਟ ਸੈੱਟ ਕਰੋ</string>
+    <string name="set_tempo_to" tools:ignore="UnusedResources">ਟੈਂਪੂ ਸੈੱਟ ਕਰੋ</string>
+    <string name="change_tempo_by" tools:ignore="UnusedResources">ਦੁਆਰਾ ਟੈਂਪੋ ਬਦਲੋ</string>
+    <string name="pause_for" tools:ignore="UnusedResources">ਲਈ ਰੋਕੋ</string>
+    <string name="play_drum" tools:ignore="UnusedResources">Drੋਲ ਵਜਾਓ</string>
+    <string name="beats" tools:ignore="UnusedResources">ਬੀਟਸ</string>
+    <string name="play_note" tools:ignore="UnusedResources">ਖੇਡੋ ਨੋਟ</string>
+    <string name="for_string" tools:ignore="UnusedResources">ਲਈ</string>
     <!--  -->
     <!-- Embroidery bricks -->
-    <string name="brick_stitch" tools:ignore="UnusedResources">Stitch</string>
-    <string name="brick_running_stitch" tools:ignore="UnusedResources">Start running stitch with length</string>
-    <string name="brick_zigzag_stitch" tools:ignore="UnusedResources">Start zigzag stitch with length</string>
-    <string name="brick_zigzag_stitch_width" tools:ignore="UnusedResources">and width</string>
-    <string name="brick_triple_stitch" tools:ignore="UnusedResources">Start triple stitch with length</string>
-    <string name="brick_stop_stitch" tools:ignore="UnusedResources">Stop current stitch</string>
-    <string name="brick_write_embroidery" tools:ignore="UnusedResources">Write embroidery data to file</string>
+    <string name="brick_stitch" tools:ignore="UnusedResources">ਸਿਲਾਈ</string>
+    <string name="brick_running_stitch" tools:ignore="UnusedResources">ਲੰਬਾਈ ਦੇ ਨਾਲ ਸਿਲਾਈ ਚਲਾਉਣੀ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="brick_zigzag_stitch" tools:ignore="UnusedResources">ਲੰਬਾਈ ਦੇ ਨਾਲ ਸਿਲਾਈ ਚਲਾਉਣੀ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="brick_zigzag_stitch_width" tools:ignore="UnusedResources">ਅਤੇ ਚੌੜਾਈ</string>
+    <string name="brick_triple_stitch" tools:ignore="UnusedResources">ਲੰਬਾਈ ਦੇ ਨਾਲ ਸਿਲਾਈ ਚਲਾਉਣੀ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="brick_stop_stitch" tools:ignore="UnusedResources">ਮੌਜੂਦਾ ਟਾਂਕੇ ਨੂੰ ਰੋਕੋ</string>
+    <string name="brick_write_embroidery" tools:ignore="UnusedResources">ਫਾਈਲ ਕਰਨ ਲਈ ਕ embਾਈ ਦਾ ਡਾਟਾ ਲਿਖੋ</string>
     <string name="brick_default_embroidery_file">embroidery.dst</string>
-    <string name="brick_sew_up" tools:ignore="UnusedResources">Sew up</string>
-    <string name="brick_thread_color">Set thread color to</string>
+    <string name="brick_sew_up" tools:ignore="UnusedResources">ਸਿਲਾਈ</string>
+    <string name="brick_thread_color">ਨੂੰ ਸੈੱਟ ਕਲਮ ਦਾ ਰੰਗ</string>
     <!--  -->
     <!-- Device bricks -->
-    <string name="brick_reset_timer" tools:ignore="UnusedResources">Reset timer</string>
-    <string name="brick_open" tools:ignore="UnusedResources">Open</string>
-    <string name="brick_in_browser" tools:ignore="UnusedResources">in browser</string>
+    <string name="brick_reset_timer" tools:ignore="UnusedResources">ਟਾਈਮਰ ਰੀਸੈਟ ਕਰੋ</string>
+    <string name="brick_open" tools:ignore="UnusedResources">ਖੋਲ੍ਹੋ</string>
+    <string name="brick_in_browser" tools:ignore="UnusedResources">ਬਰਾ .ਜ਼ਰ ਵਿੱਚ</string>
     <!-- Control bricks -->
-    <string name="brick_when_started" tools:ignore="UnusedResources">When scene starts</string>
-    <string name="brick_when" tools:ignore="UnusedResources">When tapped</string>
-    <string name="brick_when_condition_when" tools:ignore="UnusedResources">When</string>
-    <string name="brick_when_becomes_true" tools:ignore="UnusedResources">becomes true</string>
-    <string name="brick_wait" tools:ignore="UnusedResources">Wait</string>
-    <string name="brick_wait_until" tools:ignore="UnusedResources">Wait until</string>
+    <string name="brick_when_started" tools:ignore="UnusedResources">ਜਦੋਂ ਸੀਨ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ</string>
+    <string name="brick_when" tools:ignore="UnusedResources">ਜਦੋਂ ਟੇਪ ਕੀਤਾ ਜਾਂਦਾ ਹੈ</string>
+    <string name="brick_when_condition_when" tools:ignore="UnusedResources">ਕਦੋਂ</string>
+    <string name="brick_when_becomes_true" tools:ignore="UnusedResources">ਸੱਚ ਬਣ ਜਾਂਦਾ ਹੈ</string>
+    <string name="brick_wait" tools:ignore="UnusedResources">ਉਡੀਕ ਕਰੋ</string>
+    <string name="brick_wait_until" tools:ignore="UnusedResources">ਇੰਤਜ਼ਾਰ ਕਰੋ</string>
     <string name="brick_wait_until_second_part" tools:ignore="UnusedResources">is true</string>
-    <string name="brick_when_gamepad_button" tools:ignore="UnusedResources">When gamepad button</string>
-    <string name="brick_when_gamepad_button_tapped" tools:ignore="UnusedResources">tapped</string>
-    <string name="brick_when_nfc" tools:ignore="UnusedResources">When NFC</string>
-    <string name="brick_stop_script" tools:ignore="UnusedResources">Stop</string>
-    <string name="brick_stop_this_script" tools:ignore="UnusedResources">this script</string>
-    <string name="brick_stop_all_scripts" tools:ignore="UnusedResources">all scripts</string>
-    <string name="brick_stop_other_scripts" tools:ignore="UnusedResources">other scripts of this actor or object</string>
+    <string name="brick_when_gamepad_button" tools:ignore="UnusedResources">ਜਦੋਂ ਗੇਮਪੈਡ ਬਟਨ</string>
+    <string name="brick_when_gamepad_button_tapped" tools:ignore="UnusedResources">ਟੇਪ ਕੀਤਾ</string>
+    <string name="brick_when_nfc" tools:ignore="UnusedResources">ਜਦ NFC</string>
+    <string name="brick_stop_script" tools:ignore="UnusedResources">ਰੂਕੋ</string>
+    <string name="brick_stop_this_script" tools:ignore="UnusedResources">ਇਹ ਸਕ੍ਰਿਪਟ</string>
+    <string name="brick_stop_all_scripts" tools:ignore="UnusedResources">ਸਾਰੇ ਸਕ੍ਰਿਪਟਾਂ</string>
+    <string name="brick_stop_other_scripts" tools:ignore="UnusedResources">ਇਸ ਅਦਾਕਾਰ ਜਾਂ ਆਬਜੈਕਟ ਦੀਆਂ ਹੋਰ ਸਕ੍ਰਿਪਟਾਂ</string>
     <plurals name="second_plural">
-        <item quantity="one">"second"</item>
-        <item quantity="other">"seconds"</item>
+        <item quantity="one">"ਦੂਜਾ
+ਸਕਿੰਟ"</item>
+        <item quantity="other">"ਦੂਜਾ
+ਸਕਿੰਟ"</item>
     </plurals>
-    <string name="brick_collision_receive" tools:ignore="UnusedResources">When you bounce off</string>
-    <string name="collision_with_anything">any edge, actor, or object</string>
-    <string name="brick_broadcast_receive" tools:ignore="UnusedResources">When you receive</string>
-    <string name="brick_broadcast" tools:ignore="UnusedResources">Broadcast</string>
-    <string name="brick_broadcast_wait" tools:ignore="UnusedResources">Broadcast and wait</string>
-    <string name="brick_scene_transition" tools:ignore="UnusedResources">Continue scene</string>
-    <string name="brick_scene_start" tools:ignore="UnusedResources">Start scene</string>
-    <string name="brick_note" tools:ignore="UnusedResources">Note</string>
-    <string name="brick_think_bubble" tools:ignore="UnusedResources">Think</string>
-    <string name="brick_say_bubble" tools:ignore="UnusedResources">Say</string>
-    <string name="brick_think_say_for_text" tools:ignore="UnusedResources">for</string>
-    <string name="brick_forever" tools:ignore="UnusedResources">Forever</string>
-    <string name="brick_loop_for_values_from" tools:ignore="UnusedResources">For values from</string>
-    <string name="brick_loop_for_each_value_from" tools:ignore="UnusedResources">For each value from</string>
-    <string name="brick_loop_in" tools:ignore="UnusedResources">in</string>
-    <string name="brick_loop_to" tools:ignore="UnusedResources">to</string>
-    <string name="brick_repeat" tools:ignore="UnusedResources">Repeat</string>
-    <string name="brick_repeat_until" tools:ignore="UnusedResources">Repeat until</string>
-    <string name="brick_when_touched" tools:ignore="UnusedResources">When stage is tapped</string>
-    <string name="brick_clone" tools:ignore="UnusedResources">Create clone of</string>
-    <string name="brick_clone_this">yourself</string>
-    <string name="brick_when_cloned" tools:ignore="UnusedResources">When you start as a clone</string>
-    <string name="brick_delete_this_clone" tools:ignore="UnusedResources">Delete this clone</string>
-    <string name="brick_assert_that" tools:ignore="UnusedResources">Assert</string>
-    <string name="brick_is_equal_to" tools:ignore="UnusedResources">equals expected</string>
-    <string name="brick_wait_till_idle" tools:ignore="UnusedResources">Wait until all other scripts have stopped</string>
-    <string name="brick_tap_at" tools:ignore="UnusedResources">"Single tap at"</string>
-    <string name="brick_touch_at" tools:ignore="UnusedResources">"Touch at"</string>
-    <string name="brick_tap_for" tools:ignore="UnusedResources">"for"</string>
-    <string name="brick_touch_slide" tools:ignore="UnusedResources">"Touch and slide"</string>
-    <string name="brick_touch_from_x" tools:ignore="UnusedResources">"from x:"</string>
-    <string name="brick_finish_stage" tools:ignore="UnusedResources">Finish stage</string>
-    <string name="brick_finish_tests" tools:ignore="UnusedResources">Finish tests</string>
-    <string name="brick_assert_lists" tools:ignore="UnusedResources">Assert lists</string>
-    <string name="brick_assert_actual" tools:ignore="UnusedResources">Actual:</string>
-    <string name="brick_assert_expected" tools:ignore="UnusedResources">Expected:</string>
-    <string name="brick_parameterized_assert" tools:ignore="UnusedResources">assert</string>
-    <string name="brick_parameterized_equals" tools:ignore="UnusedResources">equals to expected item of</string>
+    <string name="brick_collision_receive" tools:ignore="UnusedResources">ਜਦੋਂ ਤੁਸੀਂ ਉਛਾਲ ਮਾਰਦੇ ਹੋ</string>
+    <string name="collision_with_anything">ਕੋਈ ਵੀ ਕਿਨਾਰਾ, ਅਦਾਕਾਰ, ਜਾਂ ਇਕਾਈ</string>
+    <string name="brick_broadcast_receive" tools:ignore="UnusedResources">ਜਦੋਂ ਤੁਸੀਂ ਪ੍ਰਾਪਤ ਕਰਦੇ ਹੋ</string>
+    <string name="brick_broadcast" tools:ignore="UnusedResources">ਪ੍ਰਸਾਰਨ</string>
+    <string name="brick_broadcast_wait" tools:ignore="UnusedResources">ਪ੍ਰਸਾਰਣ ਅਤੇ ਉਡੀਕ ਕਰੋ</string>
+    <string name="brick_scene_transition" tools:ignore="UnusedResources">ਦ੍ਰਿਸ਼ ਜਾਰੀ ਰੱਖੋ</string>
+    <string name="brick_scene_start" tools:ignore="UnusedResources">ਆਵਾਜ਼ ਸ਼ੁਰੂ ਕਰੋ</string>
+    <string name="brick_note" tools:ignore="UnusedResources">ਨੋਟ</string>
+    <string name="brick_think_bubble" tools:ignore="UnusedResources">ਸੋਚੋ</string>
+    <string name="brick_say_bubble" tools:ignore="UnusedResources">ਕਹੋ</string>
+    <string name="brick_think_say_for_text" tools:ignore="UnusedResources">ਲਈ</string>
+    <string name="brick_forever" tools:ignore="UnusedResources">ਹਮੇਸ਼ਾ ਲਈ</string>
+    <string name="brick_loop_for_values_from" tools:ignore="UnusedResources">ਤੋਂ ਮੁੱਲਾਂ ਲਈ</string>
+    <string name="brick_loop_for_each_value_from" tools:ignore="UnusedResources">ਤੋਂ ਹਰੇਕ ਮੁੱਲ ਲਈ</string>
+    <string name="brick_loop_in" tools:ignore="UnusedResources">ਵਿੱਚ</string>
+    <string name="brick_loop_to" tools:ignore="UnusedResources">ਨੂੰ</string>
+    <string name="brick_repeat" tools:ignore="UnusedResources">ਦੁਹਰਾਓ</string>
+    <string name="brick_repeat_until" tools:ignore="UnusedResources">ਜਦ ਤੱਕ ਦੁਹਰਾਓ</string>
+    <string name="brick_when_touched" tools:ignore="UnusedResources">ਜਦੋਂ ਸਟੇਜ ਟੇਪ ਕੀਤਾ ਜਾਂਦਾ ਹੈ</string>
+    <string name="brick_clone" tools:ignore="UnusedResources">ਦਾ ਕਲੋਨ ਬਣਾਓ</string>
+    <string name="brick_clone_this">ਆਪਣੇ ਆਪ ਨੂੰ</string>
+    <string name="brick_when_cloned" tools:ignore="UnusedResources">ਜਦੋਂ ਤੁਸੀਂ ਇੱਕ ਕਲੋਨ ਵਜੋਂ ਅਰੰਭ ਕਰਦੇ ਹੋ</string>
+    <string name="brick_delete_this_clone" tools:ignore="UnusedResources">ਇਸ ਕਲੋਨ ਨੂੰ ਮਿਟਾਓ</string>
+    <string name="brick_assert_that" tools:ignore="UnusedResources">ਜ਼ੋਰ</string>
+    <string name="brick_is_equal_to" tools:ignore="UnusedResources">ਬਰਾਬਰ ਦੀ ਉਮੀਦ</string>
+    <string name="brick_wait_till_idle" tools:ignore="UnusedResources">ਉਡੀਕ ਕਰੋ ਜਦੋਂ ਤਕ ਹੋਰ ਸਾਰੀਆਂ ਸਕ੍ਰਿਪਟਾਂ ਰੁਕ ਜਾਂਦੀਆਂ ਹਨ</string>
+    <string name="brick_tap_at" tools:ignore="UnusedResources">"ਤੇ ਇਕੋ ਟੈਪ"</string>
+    <string name="brick_touch_at" tools:ignore="UnusedResources">"'ਤੇ ਛੋਹਵੋ"</string>
+    <string name="brick_tap_for" tools:ignore="UnusedResources">"ਲਈ"</string>
+    <string name="brick_touch_slide" tools:ignore="UnusedResources">"ਛੋਹਵੋ ਅਤੇ ਸਲਾਈਡ ਕਰੋ"</string>
+    <string name="brick_touch_from_x" tools:ignore="UnusedResources">"X ਤੱਕ:"</string>
+    <string name="brick_finish_stage" tools:ignore="UnusedResources">ਮੁਕੰਮਲ ਪੜਾਅ</string>
+    <string name="brick_finish_tests" tools:ignore="UnusedResources">ਮੁਕੰਮਲ ਟੈਸਟ</string>
+    <string name="brick_assert_lists" tools:ignore="UnusedResources">ਸੂਚੀਆਂ ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="brick_assert_actual" tools:ignore="UnusedResources">ਅਸਲ:</string>
+    <string name="brick_assert_expected" tools:ignore="UnusedResources">ਉਮੀਦ ਹੈ:</string>
+    <string name="brick_parameterized_assert" tools:ignore="UnusedResources">ਜ਼ੋਰ</string>
+    <string name="brick_parameterized_equals" tools:ignore="UnusedResources">ਦੀ ਉਮੀਦ ਕੀਤੀ ਇਕਾਈ ਦੇ ਬਰਾਬਰ ਹੈ</string>
     <plurals name="brick_parameterized_foreach_plural">
-        <item quantity="one">For each item of</item>
-        <item quantity="other">For each tuple of items of</item>
+        <item quantity="one">ਦੀ ਹਰ ਇਕਾਈ ਲਈ
+ਦੀਆਂ ਚੀਜ਼ਾਂ ਦੇ ਹਰੇਕ ਕੰਮ ਲਈ</item>
+        <item quantity="other">ਦੀ ਹਰ ਇਕਾਈ ਲਈ
+ਦੀਆਂ ਚੀਜ਼ਾਂ ਦੇ ਹਰੇਕ ਕੰਮ ਲਈ</item>
     </plurals>
     <plurals name="brick_parameterized_stored_plural">
-        <item quantity="one">stored in variable with the same name</item>
-        <item quantity="other">stored in variables with the same names</item>
+        <item quantity="one">ਉਸੇ ਨਾਮ ਨਾਲ ਵੇਰੀਏਬਲ ਵਿੱਚ ਸਟੋਰ
+ਉਸੀ ਨਾਮ ਨਾਲ ਵੇਰੀਏਬਲ ਵਿੱਚ ਸਟੋਰ</item>
+        <item quantity="other">ਉਸੇ ਨਾਮ ਨਾਲ ਵੇਰੀਏਬਲ ਵਿੱਚ ਸਟੋਰ
+ਉਸੀ ਨਾਮ ਨਾਲ ਵੇਰੀਏਬਲ ਵਿੱਚ ਸਟੋਰ</item>
     </plurals>
     <plurals name="list_selection_plural">
-        <item quantity="one">%d list selected</item>
-        <item quantity="other">%d lists selected</item>
+        <item quantity="one">%d ਸੂਚੀ ਚੁਣੀ ਗਈ
+%d ਸੂਚੀਆਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
+        <item quantity="other">%d ਸੂਚੀ ਚੁਣੀ ਗਈ
+%d ਸੂਚੀਆਂ ਚੁਣੀਆਂ ਗਈਆਂ</item>
     </plurals>
     <plurals name="time_plural">
-        <item quantity="one">time</item>
-        <item quantity="other">times</item>
+        <item quantity="one">ਸਮਾਂ
+ਵਾਰ</item>
+        <item quantity="other">ਸਮਾਂ
+ਵਾਰ</item>
     </plurals>
-    <string name="brick_loop_end">End of loop</string>
-    <string name="brick_if_begin" tools:ignore="UnusedResources">If</string>
-    <string name="brick_if_begin_second_part" tools:ignore="UnusedResources">is true then</string>
-    <string name="brick_if_else" tools:ignore="UnusedResources">Else</string>
-    <string name="brick_if_end">End if</string>
-    <string name="brick_set_variable" tools:ignore="UnusedResources">Set variable</string>
-    <string name="brick_change_variable" tools:ignore="UnusedResources">Change variable</string>
-    <string name="brick_write_variable_on_device" tools:ignore="UnusedResources">Write variable on device</string>
-    <string name="brick_read_variable_from_device" tools:ignore="UnusedResources">Read variable from device</string>
-    <string name="brick_write_variable_to_file_top" tools:ignore="UnusedResources">Write variable</string>
-    <string name="brick_write_variable_to_file_bottom" tools:ignore="UnusedResources">to file</string>
+    <string name="brick_loop_end">ਲੂਪ ਦਾ ਅੰਤ</string>
+    <string name="brick_if_begin" tools:ignore="UnusedResources">ਜੇ</string>
+    <string name="brick_if_begin_second_part" tools:ignore="UnusedResources">ਫਿਰ ਸੱਚ ਹੈ</string>
+    <string name="brick_if_else" tools:ignore="UnusedResources">ਹੋਰ</string>
+    <string name="brick_if_end">ਖਤਮ ਕਰੋ ਜੇ</string>
+    <string name="brick_set_variable" tools:ignore="UnusedResources">ਵੇਰੀਏਬਲ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_change_variable" tools:ignore="UnusedResources">ਪਰਿਵਰਤਨ ਬਦਲੋ</string>
+    <string name="brick_write_variable_on_device" tools:ignore="UnusedResources">ਡਿਵਾਈਸ ਤੇ ਵੇਰੀਏਬਲ ਲਿਖੋ</string>
+    <string name="brick_read_variable_from_device" tools:ignore="UnusedResources">ਡਿਵਾਈਸ ਤੋਂ ਵੇਰੀਏਬਲ ਪੜ੍ਹੋ</string>
+    <string name="brick_write_variable_to_file_top" tools:ignore="UnusedResources">ਵੇਰੀਏਬਲ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_write_variable_to_file_bottom" tools:ignore="UnusedResources">ਫਾਈਲ ਕਰਨ ਲਈ</string>
     <string name="brick_write_variable_to_file_default_value">variable.txt</string>
-    <string name="brick_write_variable_to_file_success">"Data successfully written to %1$s"</string>
-    <string name="brick_read_variable_from_file_top" tools:ignore="UnusedResources">Read variable</string>
-    <string name="brick_read_variable_from_file_center" tools:ignore="UnusedResources">from file</string>
-    <string name="brick_read_variable_from_file_bottom" tools:ignore="UnusedResources">and</string>
-    <string name="brick_read_variable_from_file_keep">keep the file</string>
-    <string name="brick_read_variable_from_file_delete">delete the file</string>
-    <string name="brick_write_list_on_device" tools:ignore="UnusedResources">Write list on device</string>
-    <string name="brick_read_list_from_device" tools:ignore="UnusedResources">Read list from device</string>
-    <string name="brick_note_default_value">add comment here&#8230;</string>
-    <string name="brick_think_bubble_default_value">Hmmmm!</string>
-    <string name="brick_say_bubble_default_value">Hello!</string>
-    <string name="brick_broadcast_default_value">"new message"</string>
-    <string name="brick_add_item_to_userlist_add" tools:ignore="UnusedResources">Add</string>
-    <string name="brick_add_item_to_userlist" tools:ignore="UnusedResources">to list</string>
-    <string name="brick_clear_userlist" tools:ignore="UnusedResources">Delete all items from list</string>
-    <string name="brick_delete_item_from_userlist_delete" tools:ignore="UnusedResources">Delete item from list</string>
-    <string name="brick_delete_item_from_userlist" tools:ignore="UnusedResources">at position</string>
-    <string name="brick_insert_item_into_userlist_insert_into" tools:ignore="UnusedResources">Insert</string>
-    <string name="brick_insert_item_into_userlist_into_list" tools:ignore="UnusedResources">into list</string>
-    <string name="brick_insert_item_into_userlist_at_position" tools:ignore="UnusedResources">at position</string>
-    <string name="brick_replace_item_in_userlist_replace_in_list" tools:ignore="UnusedResources">Replace item in list</string>
-    <string name="brick_replace_item_in_userlist_item_at_index" tools:ignore="UnusedResources">at position</string>
-    <string name="brick_replace_item_in_userlist_with_value" tools:ignore="UnusedResources">with</string>
-    <string name="brick_web_request" tools:ignore="UnusedResources">Send web request to</string>
+    <string name="brick_write_variable_to_file_success">"ਡਾਟਾ ਨੂੰ ਸਫਲਤਾਪੂਰਕ %1$s ਤੇ ਲਿਖਿਆ"</string>
+    <string name="brick_read_variable_from_file_top" tools:ignore="UnusedResources">ਵੇਰੀਏਬਲ ਸੈੱਟ ਕਰੋ</string>
+    <string name="brick_read_variable_from_file_center" tools:ignore="UnusedResources">ਫਾਈਲ ਤੋਂ</string>
+    <string name="brick_read_variable_from_file_bottom" tools:ignore="UnusedResources">ਅਤੇ</string>
+    <string name="brick_read_variable_from_file_keep">ਫਾਈਲ ਰੱਖੋ</string>
+    <string name="brick_read_variable_from_file_delete">ਫਾਈਲ ਰੱਖੋ</string>
+    <string name="brick_write_list_on_device" tools:ignore="UnusedResources">ਡਿਵਾਈਸ ਤੇ ਵੇਰੀਏਬਲ ਲਿਖੋ</string>
+    <string name="brick_read_list_from_device" tools:ignore="UnusedResources">ਡਿਵਾਈਸ ਤੋਂ ਵੇਰੀਏਬਲ ਪੜ੍ਹੋ</string>
+    <string name="brick_note_default_value">ਇੱਥੇ ਟਿੱਪਣੀ ਸ਼ਾਮਲ ਕਰੋ ...</string>
+    <string name="brick_think_bubble_default_value">ਹਾਂ!</string>
+    <string name="brick_say_bubble_default_value">ਹੈਲੋ!</string>
+    <string name="brick_broadcast_default_value">"ਨਵਾ ਸੁਨੇਹਾ"</string>
+    <string name="brick_add_item_to_userlist_add" tools:ignore="UnusedResources">ਸ਼ਾਮਲ ਕਰੋ</string>
+    <string name="brick_add_item_to_userlist" tools:ignore="UnusedResources">ਸੂਚੀ ਵਿੱਚ ਕਰਨ ਲਈ</string>
+    <string name="brick_clear_userlist" tools:ignore="UnusedResources">ਸੂਚੀ ਵਿੱਚੋਂ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਮਿਟਾਓ</string>
+    <string name="brick_delete_item_from_userlist_delete" tools:ignore="UnusedResources">ਸੂਚੀ ਵਿੱਚੋਂ ਸਾਰੀਆਂ ਚੀਜ਼ਾਂ ਮਿਟਾਓ</string>
+    <string name="brick_delete_item_from_userlist" tools:ignore="UnusedResources">ਸਥਿਤੀ \'ਤੇ</string>
+    <string name="brick_insert_item_into_userlist_insert_into" tools:ignore="UnusedResources">ਇਨਸਰਟ</string>
+    <string name="brick_insert_item_into_userlist_into_list" tools:ignore="UnusedResources">ਸੂਚੀ ਵਿੱਚ ਕਰਨ ਲਈ</string>
+    <string name="brick_insert_item_into_userlist_at_position" tools:ignore="UnusedResources">ਸਥਿਤੀ \'ਤੇ</string>
+    <string name="brick_replace_item_in_userlist_replace_in_list" tools:ignore="UnusedResources">ਸੂਚੀ ਵਿਚ ਇਕਾਈ ਨੂੰ ਤਬਦੀਲ</string>
+    <string name="brick_replace_item_in_userlist_item_at_index" tools:ignore="UnusedResources">ਸਥਿਤੀ \'ਤੇ</string>
+    <string name="brick_replace_item_in_userlist_with_value" tools:ignore="UnusedResources">ਦੇ ਨਾਲ</string>
+    <string name="brick_web_request" tools:ignore="UnusedResources">ਨੂੰ ਵੈੱਬ ਬੇਨਤੀ ਭੇਜੋ</string>
     <string name="brick_web_request_default_value">https://catrob.at/joke</string>
-    <string name="brick_web_request_result" tools:ignore="UnusedResources">and store answer in</string>
-    <string name="web_request_warning_title">Allow web access?</string>
-    <string name="web_request_warning_message">Be very careful before allowing access, since the
-        link may expose your personal information, such as your precise geographical location or any text
-        you have entered to malicious others or to the public. See our
-        &lt;a href=%1s&gt;wiki&lt;/a&gt; for more information why this can
-        be extremely dangerous.
-    </string>
-    <string name="web_request_trust_domain_warning_title">Always allow web access?</string>
-    <string name="web_request_trust_domain_warning_message">By always allowing access, you will
-        not be asked again to confirm web addresses from this domain.
-    </string>
-    <string name="trusted_domains_edit_hint">If you want to revoke this permission
-        later, you can remove the entry from the list of trusted domains in
-        the settings of this app.
-    </string>
-    <string name="brick_look_request" tools:ignore="UnusedResources">Get image from</string>
-    <string name="brick_look_request_result" tools:ignore="UnusedResources">and use as current look</string>
-    <string name="brick_background_request_result" tools:ignore="UnusedResources">and use as current background</string>
-    <string name="look_request_http_error_message">"Get image from %1$s returned HTTP error %2$s"</string>
-    <string name="look_request_type_error_message">"Get image from %1$s could not retrieve a recognized image format"</string>
-    <string name="brick_store_csv_into_userlist_store" tools:ignore="UnusedResources">Store column</string>
-    <string name="brick_store_csv_into_userlist_of" tools:ignore="UnusedResources">of the</string>
-    <string name="brick_store_csv_into_userlist_csv" tools:ignore="UnusedResources">comma-separated values</string>
-    <string name="brick_store_csv_into_userlist_into" tools:ignore="UnusedResources">into list</string>
+    <string name="brick_web_request_result" tools:ignore="UnusedResources">ਅਤੇ ਲਿਖਤੀ ਜਵਾਬ ਅੰਦਰ ਸਟੋਰ ਕਰੋ</string>
+    <string name="web_request_warning_title">ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="web_request_warning_message">ਪਹੁੰਚ ਤੋਂ ਪਹਿਲਾਂ ਬਹੁਤ ਸਾਵਧਾਨ ਰਹੋ, ਕਿਉਂਕਿ
+         ਲਿੰਕ ਨੂੰ ਅਜਿਹੇ ਆਪਣੇ ਸਹੀ ਭੂਗੋਲਿਕ ਸਥਿਤੀ ਜ ਕੋਈ ਵੀ ਪਾਠ ਦੇ ਰੂਪ ਵਿੱਚ ਤੁਹਾਡੀ ਨਿੱਜੀ ਜਾਣਕਾਰੀ, ਬੇਨਕਾਬ ਹੋ ਸਕਦਾ ਹੈ
+         ਤੁਸੀਂ ਬਦਸਲੂਕੀ ਕਰਨ ਵਾਲੇ ਦੂਸਰਿਆਂ ਜਾਂ ਜਨਤਾ ਵਿੱਚ ਦਾਖਲ ਹੋ ਗਏ ਹੋ. ਸਾਡੇ ਵੇਖੋ
+         &amp; Lt; ਨੂੰ ਇੱਕ ਐਛਆਰਇਐਫ =%1s&gt; ਵਿਕੀ &lt;/A&gt; ਵਧੇਰੇ ਜਾਣਕਾਰੀ ਲਈ ਕਿ ਇਹ ਕਿਉਂ ਹੋ ਸਕਦਾ ਹੈ
+         ਬਹੁਤ ਖਤਰਨਾਕ ਹੋ.</string>
+    <string name="web_request_trust_domain_warning_title">ਪਹੁੰਚ ਦੀ ਇਜਾਜ਼ਤ ਦਿਓ</string>
+    <string name="web_request_trust_domain_warning_message">ਹਮੇਸ਼ਾਂ ਪਹੁੰਚ ਦੀ ਆਗਿਆ ਦੇ ਕੇ, ਤੁਸੀਂ ਕਰੋਗੇ
+         ਇਸ ਡੋਮੇਨ ਤੋਂ ਵੈਬ ਪਤਿਆਂ ਦੀ ਪੁਸ਼ਟੀ ਕਰਨ ਲਈ ਦੁਬਾਰਾ ਨਾ ਪੁੱਛਿਆ ਜਾਵੇ.</string>
+    <string name="trusted_domains_edit_hint">ਜੇ ਤੁਸੀਂ ਇਸ ਆਗਿਆ ਨੂੰ ਰੱਦ ਕਰਨਾ ਚਾਹੁੰਦੇ ਹੋ
+         ਬਾਅਦ ਵਿਚ, ਤੁਸੀਂ ਭਰੋਸੇਯੋਗ ਡੋਮੇਨਾਂ ਦੀ ਸੂਚੀ ਵਿਚੋਂ ਐਂਟਰੀ ਨੂੰ ਹਟਾ ਸਕਦੇ ਹੋ
+         ਇਸ ਐਪ ਦੀ ਸੈਟਿੰਗਜ਼.</string>
+    <string name="brick_look_request" tools:ignore="UnusedResources">ਤੋਂ ਚਿੱਤਰ ਪ੍ਰਾਪਤ ਕਰੋ</string>
+    <string name="brick_look_request_result" tools:ignore="UnusedResources">ਅਤੇ ਮੌਜੂਦਾ ਦਿੱਖ ਦੇ ਤੌਰ ਤੇ ਇਸਤੇਮਾਲ ਕਰੋ</string>
+    <string name="brick_background_request_result" tools:ignore="UnusedResources">ਅਤੇ ਮੌਜੂਦਾ ਬੈਕਗ੍ਰਾਉਂਡ ਦੇ ਤੌਰ ਤੇ ਵਰਤੋਂ</string>
+    <string name="look_request_http_error_message">"%1$s ਵਾਪਸ ਆ ਕਿ HTTP ਗਲਤੀ %2$s ਤੱਕ ਦੇ ਚਿੱਤਰ ਨੂੰ ਪ੍ਰਾਪਤ"</string>
+    <string name="look_request_type_error_message">"%1$s ਤੋਂ ਚਿੱਤਰ ਪ੍ਰਾਪਤ ਕਰੋ ਮਾਨਤਾ ਪ੍ਰਾਪਤ ਚਿੱਤਰ ਫਾਰਮੈਟ ਪ੍ਰਾਪਤ ਨਹੀਂ ਕਰ ਸਕਿਆ"</string>
+    <string name="brick_store_csv_into_userlist_store" tools:ignore="UnusedResources">ਸਟੋਰ ਕਾਲਮ</string>
+    <string name="brick_store_csv_into_userlist_of" tools:ignore="UnusedResources">ਦੀ</string>
+    <string name="brick_store_csv_into_userlist_csv" tools:ignore="UnusedResources">ਕਾਮੇ ਨਾਲ ਵੱਖ ਵੱਖ ਮੁੱਲ</string>
+    <string name="brick_store_csv_into_userlist_into" tools:ignore="UnusedResources">ਸੂਚੀ ਵਿੱਚ ਕਰਨ ਲਈ</string>
     <string name="brick_store_csv_into_userlist_data">kitty,cute\npuppy,naughty\noctopus,intelligent</string>
     <!--  -->
     <!--Instruments-->
-    <string name="piano">piano</string>
-    <string name="electric_piano">electric piano</string>
-    <string name="cello">cello</string>
-    <string name="flute">flute</string>
-    <string name="vibraphone">vibraphone</string>
-    <string name="organ">organ</string>
-    <string name="guitar">guitar</string>
-    <string name="electric_guitar">electric guitar</string>
-    <string name="bass">bass</string>
-    <string name="pizzicato">pizzicato</string>
-    <string name="synth_pad">synth pad</string>
-    <string name="choir">choir</string>
-    <string name="synth_lead">synth lead</string>
-    <string name="wooden_flute">wooden flute</string>
-    <string name="trombone">trombone</string>
-    <string name="saxophone">saxophone</string>
-    <string name="bassoon">bassoon</string>
-    <string name="clarinet">clarinet</string>
-    <string name="music_box">music box</string>
-    <string name="steel_drum">steel drum</string>
-    <string name="marimba">marimba</string>
+    <string name="piano">ਪਿਆਨੋ</string>
+    <string name="electric_piano">ਇਲੈਕਟ੍ਰਿਕ ਪਿਆਨੋ</string>
+    <string name="cello">ਸੈਲੋ</string>
+    <string name="flute">ਵੰਙਲੀ</string>
+    <string name="vibraphone">ਵਾਈਬ੍ਰਾਫੋਨ</string>
+    <string name="organ">ਅੰਗ</string>
+    <string name="guitar">ਗਿਟਾਰ</string>
+    <string name="electric_guitar">ਇਲੈਕਟ੍ਰਿਕ ਗਿਟਾਰ</string>
+    <string name="bass">ਬਾਸ</string>
+    <string name="pizzicato">ਪੀਜ਼ਾਕੈਟੋ</string>
+    <string name="synth_pad">ਸਿੰਥ ਪੈਡ</string>
+    <string name="choir">ਕੋਅਰ</string>
+    <string name="synth_lead">ਸਿੰਥ ਪੈਡ</string>
+    <string name="wooden_flute">ਲੱਕੜ ਦੇ ਬੰਸਰੀ</string>
+    <string name="trombone">ਟ੍ਰੋਮਬੋਨ</string>
+    <string name="saxophone">ਸੈਕਸੋਫੋਨ</string>
+    <string name="bassoon">ਬੇਸੂਨ</string>
+    <string name="clarinet">ਕਲੇਰਨੇਟ</string>
+    <string name="music_box">ਸੰਗੀਤ ਬਾਕਸ</string>
+    <string name="steel_drum">ਸਟੀਲ ਡਰੱਮ</string>
+    <string name="marimba">ਮਾਰਿਮਬਾ</string>
     <!--  -->
     <!--Drums-->
-    <string name="snare_drum">snare drum</string>
-    <string name="bass_drum">bass drum</string>
-    <string name="side_stick">side stick</string>
-    <string name="crash_cymbal">crash cymbal</string>
-    <string name="open_hi_hat">open hi-hat</string>
-    <string name="closed_hi_hat">closed hi-hat</string>
-    <string name="tambourine">tambourine</string>
-    <string name="hand_clap">hand clap</string>
-    <string name="claves">claves</string>
-    <string name="wood_block">wood block</string>
-    <string name="cowbell">cowbell</string>
-    <string name="triangle">triangle</string>
-    <string name="bongo">bongo</string>
-    <string name="conga">conga</string>
-    <string name="cabasa">cabasa</string>
-    <string name="guiro">guiro</string>
-    <string name="vibraslap">vibraslap</string>
-    <string name="open_cuica">open cuica</string>
+    <string name="snare_drum">ਫਾਹੀ ਡਰੱਮ</string>
+    <string name="bass_drum">ਬਾਸ ਡਰੱਮ</string>
+    <string name="side_stick">ਸਾਈਡ ਸਟਿਕ</string>
+    <string name="crash_cymbal">ਕਰੈਸ਼ ਸਿੰਬਲ</string>
+    <string name="open_hi_hat">ਓਪਨ ਹਾਈ ਟੋਪੀ</string>
+    <string name="closed_hi_hat">ਬੰਦ ਹਾਈ ਟੋਪੀ</string>
+    <string name="tambourine">ਤੰਬੂ</string>
+    <string name="hand_clap">ਹੱਥ ਤਾੜੀ</string>
+    <string name="claves">ਪੰਜੇ</string>
+    <string name="wood_block">ਲੱਕੜ ਬਲਾਕ</string>
+    <string name="cowbell">ਕਾਉਬੈਲ</string>
+    <string name="triangle">ਤਿਕੋਣ</string>
+    <string name="bongo">ਬੋਂਗੋ</string>
+    <string name="conga">ਕੋਂਗਾ</string>
+    <string name="cabasa">ਕੈਬਾਸਾ</string>
+    <string name="guiro">ਗੁਇਰੋ</string>
+    <string name="vibraslap">ਵਿਬ੍ਰੈਸਲੈਪ</string>
+    <string name="open_cuica">ਕੁਇਕਾ ਖੋਲ੍ਹੋ</string>
     <!--  -->
     <!-- Default Values -->
-    <string name="default_project_name">My project</string>
-    <string name="default_variable_name">Variable</string>
-    <string name="default_scene_name">Scene (%1$d)</string>
-    <string name="default_script_group_name">Script group</string>
-    <string name="default_broadcast_message_name">Message</string>
-    <string name="default_list_name">List</string>
-    <string name="default_project_background_name">Background</string>
-    <string name="default_project_cloud_name">Clouds</string>
-    <string name="default_project_cloud_sprite_name_1">Clouds1</string>
-    <string name="default_project_cloud_sprite_name_2">Clouds2</string>
-    <string name="default_project_sprites_animal_name">Animal</string>
-    <string name="default_project_sprites_animal_wings_up">Wings up</string>
-    <string name="default_project_sprites_animal_wings_down">Wings down</string>
-    <string name="default_project_sprites_tweet_1">Tweet1</string>
-    <string name="default_project_sprites_tweet_2">Tweet2</string>
+    <string name="default_project_name">ਨਵਾਂ ਪ੍ਰੋਜੈਕਟ</string>
+    <string name="default_variable_name">ਅਸਥਿਰ</string>
+    <string name="default_scene_name">ਦ੍ਰਿਸ਼ ( %1$d)</string>
+    <string name="default_script_group_name">ਸਕ੍ਰਿਪਟ ਸਮੂਹ ਦਾ ਨਾਮ</string>
+    <string name="default_broadcast_message_name">ਸੁਨੇਹਾ</string>
+    <string name="default_list_name">ਸੂਚੀ</string>
+    <string name="default_project_background_name">ਪਿਛੋਕੜ</string>
+    <string name="default_project_cloud_name">ਕਲਾਊਡ</string>
+    <string name="default_project_cloud_sprite_name_1">ਬੱਦਲ 1</string>
+    <string name="default_project_cloud_sprite_name_2">ਬੱਦਲ 2</string>
+    <string name="default_project_sprites_animal_name">ਜਾਨਵਰ</string>
+    <string name="default_project_sprites_animal_wings_up">ਵਿੰਗਸ</string>
+    <string name="default_project_sprites_animal_wings_down">ਵਿੰਗਜ਼</string>
+    <string name="default_project_sprites_tweet_1">ਟਵੀਟ 1</string>
+    <string name="default_project_sprites_tweet_2">ਟਵੀਟ 2</string>
     <!--suppress UnusedResources -->
-    <string name="default_project_needle_name">Needle</string>
+    <string name="default_project_needle_name">ਸੂਈ</string>
     <!--suppress UnusedResources -->
-    <string name="default_project_outer_loop">Outer Loop</string>
+    <string name="default_project_outer_loop">ਬਾਹਰੀ ਲੂਪ</string>
     <!--suppress UnusedResources -->
-    <string name="default_project_inner_loop">Inner Loop</string>
+    <string name="default_project_inner_loop">ਬਾਹਰੀ ਲੂਪ</string>
     <!-- Default ChromeCast Values -->
-    <string name="default_cast_project_background_name">Background</string>
-    <string name="default_cast_project_cloud_name">Clouds</string>
-    <string name="default_cast_project_cloud_sprite_name1">Clouds1</string>
-    <string name="default_cast_project_cloud_sprite_name2">Clouds2</string>
-    <string name="default_cast_project_sprites_bird_name">Bird</string>
-    <string name="default_cast_project_sprites_bird_name_wing_up">Bird Wings up</string>
-    <string name="default_cast_project_sprites_bird_name_wing_down">Bird Wings down</string>
-    <string name="default_cast_project_sprites_bird_name_wing_up_left">Bird Wings up left</string>
-    <string name="default_cast_project_sprites_bird_name_wing_down_left">Bird Wings down left</string>
-    <string name="default_cast_project_sprites_tweet_1">Tweet1</string>
-    <string name="default_cast_project_sprites_tweet_2">Tweet2</string>
-    <string name="default_cast_project_var_direction">direction</string>
-    <string name="default_cast_project_name">My first Chromecast project</string>
+    <string name="default_cast_project_background_name">ਪਿਛੋਕੜ</string>
+    <string name="default_cast_project_cloud_name">ਕਲਾਊਡ</string>
+    <string name="default_cast_project_cloud_sprite_name1">ਬੱਦਲ 1</string>
+    <string name="default_cast_project_cloud_sprite_name2">ਬੱਦਲ 2</string>
+    <string name="default_cast_project_sprites_bird_name">ਪੰਛੀ</string>
+    <string name="default_cast_project_sprites_bird_name_wing_up">ਬਰਡ ਵਿੰਗਸ ਅਪ</string>
+    <string name="default_cast_project_sprites_bird_name_wing_down">ਬਰਡ ਵਿੰਗਸ ਅਪ</string>
+    <string name="default_cast_project_sprites_bird_name_wing_up_left">ਬਰਡ ਵਿੰਗਸ ਅਪ</string>
+    <string name="default_cast_project_sprites_bird_name_wing_down_left">ਬਰਡ ਵਿੰਗਸ ਅਪ</string>
+    <string name="default_cast_project_sprites_tweet_1">ਟਵੀਟ 1</string>
+    <string name="default_cast_project_sprites_tweet_2">ਟਵੀਟ 2</string>
+    <string name="default_cast_project_var_direction">ਦਿਸ਼ਾ</string>
+    <string name="default_cast_project_name">ਮੇਰਾ ਪਹਿਲਾ ਕਰੋਮਕਾਸਟ ਪ੍ਰੋਜੈਕਟ</string>
     <!-- Default Drone Values -->
-    <string name="drone_brick_set_text">Text</string>
-    <string name="drone_brick_set_x">X:</string>
+    <string name="drone_brick_set_text">ਟੈਕਸਟ</string>
+    <string name="drone_brick_set_x">ਐਕਸ:</string>
     <!--  -->
     <!-- Drone config spinner values  -->
-    <string name="drone_config_indoor_with_hull">indoor with hull</string>
-    <string name="drone_config_indoor_without_hull">indoor without hull</string>
-    <string name="drone_config_outdoor_with_hull">outdoor with hull</string>
-    <string name="drone_config_outdoor_without_hull">outdoor without hull</string>
+    <string name="drone_config_indoor_with_hull">ਘੜੀ ਦੇ ਨਾਲ ਇਨਡੋਰ</string>
+    <string name="drone_config_indoor_without_hull">ਘੜੀ ਦੇ ਨਾਲ ਇਨਡੋਰ</string>
+    <string name="drone_config_outdoor_with_hull">ਘੜੀ ਦੇ ਨਾਲ ਇਨਡੋਰ</string>
+    <string name="drone_config_outdoor_without_hull">ਘੜੀ ਦੇ ਨਾਲ ਇਨਡੋਰ</string>
     <!-- Drone altitude limit values  -->
-    <string name="drone_set_altitude_max_3m">3 meters</string>
-    <string name="drone_set_altitude_max_5m">5 meters</string>
-    <string name="drone_set_altitude_max_10m">10 meters</string>
-    <string name="drone_set_altitude_max_100m">100 meters</string>
+    <string name="drone_set_altitude_max_3m">3 ਮੀਟਰ</string>
+    <string name="drone_set_altitude_max_5m">5 ਮੀਟਰ</string>
+    <string name="drone_set_altitude_max_10m">10 ਮੀਟਰ</string>
+    <string name="drone_set_altitude_max_100m">100 ਮੀਟਰ</string>
     <!-- Drone max vertical speed limit values  -->
-    <string name="drone_set_vertical_min">200 mm/s</string>
-    <string name="drone_set_vertical_indoor">700 mm/s</string>
-    <string name="drone_set_vertical_outdoor">1000 mm/s</string>
-    <string name="drone_set_vertical_max">2000 mm/s</string>
+    <string name="drone_set_vertical_min">200 ਮਿਲੀਮੀਟਰ / ਸ</string>
+    <string name="drone_set_vertical_indoor">700 ਮਿਲੀਮੀਟਰ / ਸ</string>
+    <string name="drone_set_vertical_outdoor">1000 ਮਿਲੀਮੀਟਰ / ਸ</string>
+    <string name="drone_set_vertical_max">2000 ਮਿਲੀਮੀਟਰ / ਸ</string>
     <!-- Drone max rotation speed limit values  -->
-    <string name="drone_set_rotation_min">40 degrees/s</string>
-    <string name="drone_set_rotation_indoor">100 degrees/s</string>
-    <string name="drone_set_rotation_outdoor">200 degrees/s</string>
-    <string name="drone_set_rotation_max">350 degrees/s</string>
+    <string name="drone_set_rotation_min">40 ਡਿਗਰੀ / ਸ</string>
+    <string name="drone_set_rotation_indoor">100 ਡਿਗਰੀ / ਸ</string>
+    <string name="drone_set_rotation_outdoor">200 ਡਿਗਰੀ / ਸ</string>
+    <string name="drone_set_rotation_max">350 ਡਿਗਰੀ / ਸ</string>
     <!-- Drone max tilt limit values  -->
-    <string name="drone_set_tilt_min">5 degrees</string>
-    <string name="drone_set_tilt_indoor">12 degrees</string>
-    <string name="drone_set_tilt_outdoor">20 degrees </string>
-    <string name="drone_set_tilt_max">30 degrees</string>
+    <string name="drone_set_tilt_min">5 ਡਿਗਰੀ</string>
+    <string name="drone_set_tilt_indoor">12 ਡਿਗਰੀ</string>
+    <string name="drone_set_tilt_outdoor">20 ਡਿਗਰੀ</string>
+    <string name="drone_set_tilt_max">30 ਡਿਗਰੀ</string>
     <!-- Notification Channel -->
-    <string name="channel_description">%1$s notification channel</string>
+    <string name="channel_description">%1$s ਨੋਟੀਫਿਕੇਸ਼ਨ ਚੈਨਲ</string>
     <!--  -->
     <!-- Notifications -->
-    <string name="notification_screenshot_ok">Preview image saved</string>
-    <string name="notification_download_project_cancel">Cancel project download</string>
-    <string name="notification_reconvert_download_program_cancel">Canceled downloading/reconverting project</string>
-    <string name="notification_upload_title_pending">"Uploading"</string>
-    <string name="notification_upload_title_finished">"Look at"</string>
-    <string name="notification_upload_pending">Upload in progress</string>
-    <string name="notification_upload_finished">Upload successful</string>
-    <string name="notification_upload_rejected">Uploaded project rejected</string>
-    <string name="notification_upload_retry">Retry</string>
-    <string name="notification_open_play_store">Open App store</string>
-    <string name="notification_download_title_pending">"Downloading"</string>
-    <string name="notification_download_pending">Download in progress</string>
-    <string name="notification_download_finished">Download successful</string>
-    <string name="notification_title_open">"Open"</string>
+    <string name="notification_screenshot_ok">ਪੂਰਵਦਰਸ਼ਨ ਚਿੱਤਰ ਸੁਰੱਖਿਅਤ ਕੀਤਾ ਗਿਆ</string>
+    <string name="notification_download_project_cancel">ਰੱਦ ਕਰੋ ਪ੍ਰਾਜੈਕਟ ਨੂੰ ਡਾਊਨਲੋਡ</string>
+    <string name="notification_reconvert_download_program_cancel">ਰੱਦ ਡਾਊਨਲੋਡਿੰਗ / ਪ੍ਰਵਿਸ਼ਟ ਪ੍ਰਾਜੈਕਟ ਨੂੰ</string>
+    <string name="notification_upload_title_pending">"ਅੱਪਲੋਡ"</string>
+    <string name="notification_upload_title_finished">"ਵੱਲ ਦੇਖੋ"</string>
+    <string name="notification_upload_pending">ਅਪਲੋਡ ਜਾਰੀ ਹੈ</string>
+    <string name="notification_upload_finished">ਅਪਲੋਡ ਸਫਲ</string>
+    <string name="notification_upload_rejected">ਅਪਲੋਡ ਕੀਤਾ ਪ੍ਰੋਜੈਕਟ ਰੱਦ ਕਰ ਦਿੱਤਾ ਗਿਆ</string>
+    <string name="notification_upload_retry">ਮੁੜ</string>
+    <string name="notification_open_play_store">ਐਪ ਸਟੋਰ ਖੋਲ੍ਹੋ</string>
+    <string name="notification_download_title_pending">"ਡਾਊਨਲੋਡ"</string>
+    <string name="notification_download_pending">ਤਰੱਕੀ ਵਿੱਚ ਡਾਊਨਲੋਡ</string>
+    <string name="notification_download_finished">ਡਾਊਨਲੋਡ ਸਫਲ</string>
+    <string name="notification_title_open">"ਖੁੱਲਾ"</string>
     <string name="size_of_project">ਆਕਾਰ:</string>
     <!--  -->
     <!-- Runtime permission messages -->
-    <string name="runtime_permission_general">This app needs the requested permissions to function properly. E.g., the
-Camera brick needs access to the device\'s camera, the \"location\" formula element needs access to the
-device\'s geolocation sensor, and in order to import and export projects from and to the local memory, the app
-needs read and write access to it. You can always change permissions through your device\'s settings.</string>
+    <string name="runtime_permission_general">ਇਸ ਐਪ ਨੂੰ ਸਹੀ ਤਰ੍ਹਾਂ ਕੰਮ ਕਰਨ ਲਈ ਬੇਨਤੀ ਕੀਤੀਆਂ ਅਨੁਮਤੀਆਂ ਦੀ ਲੋੜ ਹੈ. ਉਦਾਹਰਣ ਵਜੋਂ,
+ਕੈਮਰਾ ਇੱਟ ਨੂੰ ਡਿਵਾਈਸ ਦੇ ਕੈਮਰੇ ਤਕ ਪਹੁੰਚ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ, \"ਸਥਾਨ\" ਫਾਰਮੂਲੇ ਤੱਤ ਨੂੰ ਐਕਸੈਸ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ
+ਡਿਵਾਈਸ ਦਾ ਭੂ-ਸਥਿਤੀ ਸੰਵੇਦਕ, ਅਤੇ ਸਥਾਨਕ ਮੈਮੋਰੀ ਤੋਂ, ਐਪ ਨੂੰ ਆਯਾਤ ਅਤੇ ਨਿਰਯਾਤ ਕਰਨ ਲਈ
+ਇਸ ਨੂੰ ਪੜ੍ਹਨ ਅਤੇ ਲਿਖਣ ਦੀ ਪਹੁੰਚ ਦੀ ਜ਼ਰੂਰਤ ਹੈ. ਤੁਸੀਂ ਹਮੇਸ਼ਾਂ ਆਪਣੇ ਡਿਵਾਈਸ ਦੀਆਂ ਸੈਟਿੰਗਾਂ ਦੁਆਰਾ ਅਨੁਮਤੀਆਂ ਨੂੰ ਬਦਲ ਸਕਦੇ ਹੋ.</string>
     <!-- Error messages -->
-    <string name="error_project_upload">Something went wrong while uploading the project.</string>
-    <string name="error_project_download">Something went wrong while downloading the project.</string>
-    <string name="error_project_already_in_queue">"Project %s already in queue."</string>
-    <string name="error_could_not_decode_project_name_from_url">"Your download could not be
-        started, seems there is a problem with our server."</string>
-    <string name="error_new_project">Something went wrong while creating a new project.</string>
-    <string name="error_rename_scene">Something went wrong while renaming the scene.</string>
-    <string name="error_load_project">Something went wrong while loading the project.</string>
-    <string name="error_screenshot_failed">Something went wrong while saving the preview image.</string>
-    <string name="error_internet_connection">An unknown error occurred. Check your Internet connection.</string>
-    <string name="error_project_compatibility">The project is not compatible with this version of the app.</string>
-    <string name="error_outdated_version">This app version is outdated. Update now?</string>
-    <string name="error_upload_project_with_default_name">You cannot upload a project with the name \"My first project\".
-        Please rename the project.</string>
-    <string name="error_upload_default_project">You cannot upload an unmodified example project. Please
-        change something and try again.</string>
-    <string name="error_adding_brick">Something went wrong while adding this brick.</string>
-    <string name="error_copying_brick">Something went wrong while copying this brick.</string>
-    <string name="error_rename_incompatible_project">Renaming an incompatible project is not possible.</string>
-    <string name="error_embroidery_file_export">Something went wrong while sharing the embroidery file.</string>
-    <string name="error_embroidery_file_write">Something went wrong while writing the embroidery file.</string>
-    <string name="error_embroidery_data_not_found">Embroidery is missing.</string>
-    <string name="error_unknown_error">Something went wrong.</string>
-    <string name="error_gps_not_available">Geolocation data is not available.</string>
-    <string name="error_set_description">Something went wrong while saving the new description.</string>
-    <string name="error_set_notes_and_credits">Something went wrong while saving the new notes
-        and credits.</string>
-    <string name="error_no_whatsapp">WhatsApp not installed</string>
-    <string name="error_unsupported_bricks_chromecast">This script can\'t be added  to a Chromecast
-        project.</string>
+    <string name="error_project_upload">ਪ੍ਰੋਜੈਕਟ ਨੂੰ ਅਪਲੋਡ ਕਰਨ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_project_download">ਜਦਕਿ ਪ੍ਰਾਜੈਕਟ ਨੂੰ ਡਾਊਨਲੋਡ ਕਰਨ ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ.</string>
+    <string name="error_project_already_in_queue">"ਪ੍ਰੋਜੈਕਟ%s ਪਹਿਲਾਂ ਹੀ ਕਤਾਰ ਵਿੱਚ ਹੈ."</string>
+    <string name="error_could_not_decode_project_name_from_url">"ਤੁਹਾਡਾ ਡਾਊਨਲੋਡ ਨਾ ਹੋ ਸਕਦਾ ਹੈ
+         ਸ਼ੁਰੂ ਹੋਇਆ, ਲੱਗਦਾ ਹੈ ਕਿ ਸਾਡੇ ਸਰਵਰ ਨਾਲ ਕੋਈ ਸਮੱਸਿਆ ਹੈ. "</string>
+    <string name="error_new_project">ਨਵਾਂ ਪ੍ਰੋਜੈਕਟ ਬਣਾਉਣ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_rename_scene">ਸੀਨ ਦਾ ਨਾਮ ਦੇਣ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ</string>
+    <string name="error_load_project">ਪ੍ਰੋਜੈਕਟ ਨੂੰ ਲੋਡ ਕਰਨ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_screenshot_failed">ਪੂਰਵਦਰਸ਼ਨ ਚਿੱਤਰ ਨੂੰ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_internet_connection">ਇੱਕ ਅਣਜਾਣ ਗਲਤੀ ਆਈ ਹੈ. ਆਪਣੇ ਇੰਟਰਨੈਟ ਕਨੈਕਸ਼ਨ ਦੀ ਜਾਂਚ ਕਰੋ.</string>
+    <string name="error_project_compatibility">ਪ੍ਰੋਜੈਕਟ ਐਪ ਦੇ ਇਸ ਸੰਸਕਰਣ ਦੇ ਅਨੁਕੂਲ ਨਹੀਂ ਹੈ.</string>
+    <string name="error_outdated_version">ਇਹ ਐਪ ਦਾ ਸੰਸਕਰਣ ਪੁਰਾਣਾ ਹੈ. ਹੁਣ ਅਪਡੇਟ ਕਰੋ?</string>
+    <string name="error_upload_project_with_default_name">ਤੁਸੀਂ \"ਮੇਰਾ ਪਹਿਲਾ ਪ੍ਰੋਜੈਕਟ\" ਨਾਮ ਦੇ ਨਾਲ ਕੋਈ ਪ੍ਰੋਜੈਕਟ ਅਪਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ.
+         ਕਿਰਪਾ ਕਰਕੇ ਪ੍ਰੋਜੈਕਟ ਦਾ ਨਾਮ ਬਦਲੋ.</string>
+    <string name="error_upload_default_project">ਤੁਸੀਂ ਗੈਰ-ਸੋਧਿਆ ਉਦਾਹਰਨ ਪ੍ਰੋਜੈਕਟ ਅਪਲੋਡ ਨਹੀਂ ਕਰ ਸਕਦੇ. ਕ੍ਰਿਪਾ ਕਰਕੇ
+         ਕੁਝ ਬਦਲੋ ਅਤੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ.</string>
+    <string name="error_adding_brick">ਇਸ ਇੱਟ ਨੂੰ ਜੋੜਦੇ ਸਮੇਂ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_copying_brick">ਇਸ ਇੱਟ ਦੀ ਨਕਲ ਕਰਦਿਆਂ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_rename_incompatible_project">ਅਸੰਗਤ ਪ੍ਰੋਜੈਕਟ ਦਾ ਨਾਮ ਬਦਲਣਾ ਸੰਭਵ ਨਹੀਂ ਹੈ.</string>
+    <string name="error_embroidery_file_export">ਕਢਾਈ ਫਾਇਲ ਸ਼ੇਅਰਿੰਗ, ਜਦਕਿ ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ.</string>
+    <string name="error_embroidery_file_write">ਜਦਕਿ ਕਢਾਈ ਫਾਇਲ ਲਿਖਣ ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ.</string>
+    <string name="error_embroidery_data_not_found">ਕਢਾਈ ਗੁੰਮ ਹੈ.</string>
+    <string name="error_unknown_error">ਕੁਝ ਗਲਤ ਹੋ ਗਿਆ.</string>
+    <string name="error_gps_not_available">ਭੂਗੋਲਿਕ ਸਥਾਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ.</string>
+    <string name="error_set_description">ਨਵਾਂ ਵੇਰਵਾ ਸੁਰੱਖਿਅਤ ਕਰਨ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ.</string>
+    <string name="error_set_notes_and_credits">ਨਵੇਂ ਨੋਟ ਬਚਾਉਣ ਵੇਲੇ ਕੁਝ ਗਲਤ ਹੋਇਆ
+         ਅਤੇ ਕ੍ਰੈਡਿਟ.</string>
+    <string name="error_no_whatsapp">ਵਟਸਐਪ ਸਥਾਪਤ ਨਹੀਂ ਹੈ</string>
+    <string name="error_unsupported_bricks_chromecast">ਇਹ ਸਕਰਿਪਟ ਨੂੰ ਇੱਕ Chromecast ਨਾਲ ਸ਼ਾਮਿਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
+         ਪ੍ਰੋਜੈਕਟ.</string>
     <!--  -->
     <!-- Bluetooth Connection Strings -->
-    <string name="notification_blueth_err">Can\'t enable Bluetooth, please try turning it off and on again.</string>
-    <string name="title_paired_devices">Paired devices</string>
-    <string name="title_other_devices">New devices</string>
-    <string name="searching_devices">Looking for devices&#8230;</string>
-    <string name="button_scan">Search Bluetooth devices</string>
-    <string name="select_device">Select device:</string>
-    <string name="connecting_please_wait">Connecting to your device.\nPlease wait&#8230;</string>
+    <string name="notification_blueth_err">ਬਲਿਊਟੁੱਥ ਨੂੰ ਯੋਗ ਨਾ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ, ਇਸ ਨੂੰ ਬੰਦ ਕਰੋ ਅਤੇ ਦੁਬਾਰਾ \'ਤੇ ਕਰ ਦਿਓ ਕੋਸ਼ਿਸ਼ ਕਰੋ.</string>
+    <string name="title_paired_devices">ਪੇਅਰ ਕੀਤੀਆਂ ਡਿਵਾਈਸਾਂ</string>
+    <string name="title_other_devices">ਨਵੀਆਂ ਡਿਵਾਈਸਾਂ</string>
+    <string name="searching_devices">ਡਿਵਾਈਸਾਂ ਦੀ ਭਾਲ ਕਰ ਰਿਹਾ ਹੈ ...</string>
+    <string name="button_scan">ਬਲੂਟੁੱਥ ਉਪਕਰਣ ਖੋਜੋ</string>
+    <string name="select_device">ਜੰਤਰ ਚੁਣੋ:</string>
+    <string name="connecting_please_wait">ਆਪਣੇ ਜੰਤਰ ਨੂੰ ਨਾਲ ਕੁਨੈਕਟ ਕੀਤਾ. \n ਕਿਰਪਾ ਕਰਕੇ ਉਡੀਕ ਕਰੋ ...</string>
     <!-- <string name="pairing_message">After pairing, connect.</string> -->
-    <string name="bt_connection_failed">Connection to device failed!</string>
-    <string name="none_found">No unpaired devices found</string>
-    <string name="none_paired">No paired devices found</string>
+    <string name="bt_connection_failed">ਡਿਵਾਈਸ ਨਾਲ ਕਨੈਕਸ਼ਨ ਅਸਫਲ!</string>
+    <string name="none_found">ਕੋਈ ਅਨ ਪੇਅਰ ਕੀਤੀਆਂ ਡਿਵਾਈਸਾਂ ਨਹੀਂ ਮਿਲੀਆਂ</string>
+    <string name="none_paired">ਕੋਈ ਜੋੜੀ ਵਾਲੀਆਂ ਡਿਵਾਈਸਾਂ ਨਹੀਂ ਮਿਲੀਆਂ</string>
     <!--  -->
     <!-- Arduino Bricks -->
-    <string name="brick_arduino_select_digital_value" tools:ignore="UnusedResources">Set Arduino digital pin</string>
-    <string name="brick_arduino_select_analog_value" tools:ignore="UnusedResources">Set Arduino PWM~ pin</string>
-    <string name="brick_arduino_set_pin_value_to" tools:ignore="UnusedResources">to</string>
+    <string name="brick_arduino_select_digital_value" tools:ignore="UnusedResources">ਅਰੂਦਿਨੋ ਡਿਜੀਟਲ ਪਿੰਨ ਸੈਟ ਕਰੋ</string>
+    <string name="brick_arduino_select_analog_value" tools:ignore="UnusedResources">ਸੈੱਟ Arduino PWM ~ ਪਿੰਨ</string>
+    <string name="brick_arduino_set_pin_value_to" tools:ignore="UnusedResources">ਨੂੰ</string>
     <!--  -->
     <!-- Raspi Bricks -->
-    <string name="brick_raspi_select_digital_value" tools:ignore="UnusedResources">Set Raspberry Pi pin</string>
-    <string name="brick_raspi_set_pin_value_to" tools:ignore="UnusedResources">to</string>
+    <string name="brick_raspi_select_digital_value" tools:ignore="UnusedResources">ਸੈੱਟ Raspberry Pi ਪਿੰਨ</string>
+    <string name="brick_raspi_set_pin_value_to" tools:ignore="UnusedResources">ਨੂੰ</string>
     <string name="brick_raspi_if_begin" tools:ignore="UnusedResources">If Raspberry Pi pin</string>
-    <string name="brick_raspi_if_begin_second_part" tools:ignore="UnusedResources">is true then</string>
+    <string name="brick_raspi_if_begin_second_part" tools:ignore="UnusedResources">ਫਿਰ ਸੱਚ ਹੈ</string>
     <string name="brick_raspi_when_begin" tools:ignore="UnusedResources">When Raspberry Pi pin</string>
     <string name="brick_raspi_when_equals" tools:ignore="UnusedResources">changes to</string>
     <string name="brick_raspi_pressed_text">high</string>
@@ -1349,10 +1356,10 @@ needs read and write access to it. You can always change permissions through you
     <!--  -->
     <!-- Lego Mindstorms Strings -->
     <string name="nxt_brick_motor_move" tools:ignore="UnusedResources">Set NXT motor</string>
-    <string name="nxt_motor_speed_to" tools:ignore="UnusedResources">to</string>
+    <string name="nxt_motor_speed_to" tools:ignore="UnusedResources">ਨੂੰ</string>
     <string name="nxt_motor_speed" tools:ignore="UnusedResources">speed</string>
     <string name="nxt_brick_motor_turn_angle" tools:ignore="UnusedResources">Turn NXT motor</string>
-    <string name="nxt_motor_move_by" tools:ignore="UnusedResources">by</string>
+    <string name="nxt_motor_move_by" tools:ignore="UnusedResources">ਨਾਲ</string>
     <string name="nxt_motor_stop" tools:ignore="UnusedResources">Stop NXT motor</string>
     <string name="nxt_play_tone" tools:ignore="UnusedResources">Play NXT tone</string>
     <string name="nxt_tone_duration" tools:ignore="UnusedResources">Duration</string>
@@ -1419,13 +1426,13 @@ needs read and write access to it. You can always change permissions through you
     <string name="ev3_motor_b_and_c">B+C</string>
     <string name="ev3_motor_all">All</string>
     <string name="ev3_play_tone" tools:ignore="UnusedResources">Play EV3 tone</string>
-    <string name="ev3_tone_duration_for" tools:ignore="UnusedResources">for</string>
+    <string name="ev3_tone_duration_for" tools:ignore="UnusedResources">ਲਈ</string>
     <string name="ev3_tone_volume" tools:ignore="UnusedResources">Volume</string>
     <string name="ev3_tone_percent" tools:ignore="UnusedResources">%</string>
     <string name="ev3_motor_stop" tools:ignore="UnusedResources">Stop EV3 motor</string>
     <string name="ev3_motor_move" tools:ignore="UnusedResources">Set EV3 motor</string>
     <string name="ev3_brick_motor_turn_angle" tools:ignore="UnusedResources">Turn EV3 motor</string>
-    <string name="ev3_motor_move_by" tools:ignore="UnusedResources">by</string>
+    <string name="ev3_motor_move_by" tools:ignore="UnusedResources">ਨਾਲ</string>
     <string name="ev3_set_led_status" tools:ignore="UnusedResources">Set EV3 LED status</string>
     <string name="ev3_led_status_off">Off</string>
     <string name="ev3_led_status_green">Green</string>
@@ -1457,7 +1464,7 @@ needs read and write access to it. You can always change permissions through you
     <string name="brick_drone_set_vertical_speed">Vertical speed limit</string>
     <string name="brick_drone_set_rotation_speed">Rotation speed limit</string>
     <string name="brick_drone_set_tilt_limit">Tilt limit</string>
-    <string name="brick_drone_with." tools:ignore="UnusedResources">with</string>
+    <string name="brick_drone_with." tools:ignore="UnusedResources">ਦੇ ਨਾਲ</string>
     <string name="brick_drone_power" tools:ignore="UnusedResources">power</string>
     <!--  -->
     <!-- Drone play led animation strings -->
@@ -1878,8 +1885,8 @@ needs read and write access to it. You can always change permissions through you
     <!-- -->
     <!-- Camera related strings -->
     <string name="brick_video" tools:ignore="UnusedResources">Turn camera</string>
-    <string name="video_brick_camera_on" tools:ignore="UnusedResources">on</string>
-    <string name="video_brick_camera_off" tools:ignore="UnusedResources">off</string>
+    <string name="video_brick_camera_on" tools:ignore="UnusedResources">ਚਾਲੂ</string>
+    <string name="video_brick_camera_off" tools:ignore="UnusedResources">ਬੰਦ</string>
     <string name="brick_choose_camera" tools:ignore="UnusedResources">Use camera</string>
     <string name="choose_camera_front" tools:ignore="UnusedResources">front</string>
     <string name="choose_camera_back" tools:ignore="UnusedResources">rear</string>
@@ -1968,4 +1975,6 @@ needs read and write access to it. You can always change permissions through you
          ਸਟੇਜ</string>
     <!-- Information -->
     <string name="no_variable_selected">No variable selected</string>
+    <string name="find">ਲੱਭੋ</string>
+    <string name="no_results_found">ਕੋਈ ਨਤੀਜਾ ਨਹੀਂ ਮਿਲਿਆ</string>
 </resources>

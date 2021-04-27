@@ -1879,4 +1879,6 @@ doit avoir accès en lecture et en écriture à la mémoire locale. Vous pouvez 
     <string name="place_visually_text">On te demandera de placer le nouvel acteur ou objet sur l\'écran.</string>
     <!-- Information -->
     <string name="no_variable_selected">Aucune variable sélectionnée</string>
+    <string name="find">Find</string>
+    <string name="no_results_found">No results found</string>
 </resources>

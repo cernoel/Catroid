@@ -104,10 +104,10 @@
     <string name="marketing_created_with">Создан с помощью</string>
     <string name="marketing_app_details">Сведения об этом приложении</string>
     <string name="marketing_more_on_google_play">Больше приложений на Google Play</string>
-    <string name="error_cannot_open_huawei_app_gallery">Упс! Не смог открыть Хуавэйскую Прикладную Галерею,
-        пожалуйста, попробуйте позже.</string>
+    <string name="error_cannot_open_huawei_app_gallery">Упс! Не удалось открыть Huawei AppGallery,
+        Пожалуйста, повторите попытку позже.</string>
     <string name="google_play_store_logo">Google Play</string>
-    <string name="huawei_app_gallery">App Gallery Huawei</string>
+    <string name="huawei_app_gallery">Huawei App Gallery</string>
     <!-- NFC activity -->
     <string name="nfc_activity_title">NFC тег</string>
     <!-- Settings activity -->
@@ -1954,7 +1954,7 @@
     <string name="dialog_disable_hints_text">Подсказки предоставят Вам полезную информацию
         во время создания вашего первого проекта.\n\nVisibility подсказки могут быть изменены в разделе
         настройки.</string>
-    <string name="dialog_disable_hints_button_hide">ШИРИНА</string>
+    <string name="dialog_disable_hints_button_hide">СКРЫТЬ</string>
     <string name="dialog_disable_hints_button_show">ПОКАЗЫВАТЬ</string>
     <!--  -->
     <!-- Crash report dialog -->
@@ -1969,8 +1969,10 @@
     <string name="data_value">Значение</string>
     <string name="category_recently_used">Недавно использованные</string>
     <string name="new_sprite_dialog_place_visually">Поместить на глаз</string>
-    <string name="place_visually_text">Вам будет предложено поместить новый агент или объект на
-        Сцена.</string>
+    <string name="place_visually_text">Вам будет предложено поместить нового актера или объект на
+         сцену.</string>
     <!-- Information -->
     <string name="no_variable_selected">Переменная не выбрана</string>
+    <string name="find">Найти</string>
+    <string name="no_results_found">Ничего не найдено</string>
 </resources>

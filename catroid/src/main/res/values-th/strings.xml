@@ -1812,4 +1812,6 @@
          เวที.</string>
     <!-- Information -->
     <string name="no_variable_selected">ไม่ได้เลือกตัวแปร</string>
+    <string name="find">ค้นหา</string>
+    <string name="no_results_found">ไม่พบผลลัพธ์</string>
 </resources>
